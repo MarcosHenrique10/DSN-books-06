@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id460g">
+      <!--  -->
+      <text src="../029.xhtml#empty"/>
+      <audio clipBegin="232619ms" clipEnd="232654ms" src="../audio/9781484730058.m4a"/>
+    </par>
+    <par id="id460">
+      <!-- Merry -->
+      <text src="../029.xhtml#w460"/>
+      <audio clipBegin="232654ms" clipEnd="233394ms" src="../audio/9781484730058.m4a"/>
+    </par>
+    <par id="id461">
+      <!-- Christmas -->
+      <text src="../029.xhtml#w461"/>
+      <audio clipBegin="233394ms" clipEnd="234254ms" src="../audio/9781484730058.m4a"/>
+    </par>
+    <par id="id462">
+      <!-- to -->
+      <text src="../029.xhtml#w462"/>
+      <audio clipBegin="234254ms" clipEnd="234434ms" src="../audio/9781484730058.m4a"/>
+    </par>
+    <par id="id463">
+      <!-- all -->
+      <text src="../029.xhtml#w463"/>
+      <audio clipBegin="234434ms" clipEnd="234964ms" src="../audio/9781484730058.m4a"/>
+    </par>
+    <par id="id464">
+      <!-- and -->
+      <text src="../029.xhtml#w464"/>
+      <audio clipBegin="234964ms" clipEnd="235814ms" src="../audio/9781484730058.m4a"/>
+    </par>
+    <par id="id465">
+      <!-- to -->
+      <text src="../029.xhtml#w465"/>
+      <audio clipBegin="235814ms" clipEnd="236184ms" src="../audio/9781484730058.m4a"/>
+    </par>
+    <par id="id466">
+      <!-- all -->
+      <text src="../029.xhtml#w466"/>
+      <audio clipBegin="236184ms" clipEnd="236824ms" src="../audio/9781484730058.m4a"/>
+    </par>
+    <par id="id467">
+      <!-- a -->
+      <text src="../029.xhtml#w467"/>
+      <audio clipBegin="236824ms" clipEnd="236964ms" src="../audio/9781484730058.m4a"/>
+    </par>
+    <par id="id468">
+      <!-- good -->
+      <text src="../029.xhtml#w468"/>
+      <audio clipBegin="236964ms" clipEnd="237574ms" src="../audio/9781484730058.m4a"/>
+    </par>
+    <par id="id469">
+      <!-- night -->
+      <text src="../029.xhtml#w469"/>
+      <audio clipBegin="237574ms" clipEnd="239614ms" src="../audio/9781484730058.m4a"/>
+    </par>
+    <par id="id469g">
+      <!--  -->
+      <text src="../029.xhtml#empty1"/>
+      <audio clipBegin="239614ms" clipEnd="249980ms" src="../audio/9781484730058.m4a"/>
+    </par>
+  </body>
+</smil>

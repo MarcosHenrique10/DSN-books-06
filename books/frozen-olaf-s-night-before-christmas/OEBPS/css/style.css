@@ -1,0 +1,1705 @@
+@font-face {
+	font-family: "Arial";
+	src: url(../fonts/Arial.ttf);
+}
+@font-face {
+	font-family: "Virgin";
+	src: url(../fonts/Virgin.otf);
+}
+@font-face {
+	font-family: "Billy";
+	src: url(../fonts/Billy.otf);
+}
+.pos {
+	position: absolute;
+	margin-top: -12px;
+}
+.pos2 {
+	position: absolute;
+	margin-top: -24px;
+}
+.pos3 {
+	position: absolute;
+	margin-top: -35px;
+}
+.pos1 {
+	position: absolute;
+	margin-top: -6px;
+}
+.style4 {
+	font-family: Virgin;
+	font-size: 71.5741871342652px;
+	color: #ffffff;
+}
+.style5 {
+	font-family: Virgin;
+	font-size: 59.645155945221px;
+	color: #ffffff;
+}
+.style6 {
+	font-family: Virgin;
+	font-size: 59.645155945221px;
+	color: #ffffff;
+}
+.style7 {
+	font-family: Virgin;
+	font-size: 285.580957806283px;
+	color: #ffffff;
+}
+.style8 {
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 142.790234605964px;
+	color: #ffffff;
+}
+.style9 {
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 91.2967868875709px;
+	color: #ffffff;
+}
+.style10 {
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 91.2967868875709px;
+	color: #ffffff;
+}
+.style11 {
+	font-family: Virgin;
+	font-size: 266.542878745004px;
+	color: #ffffff;
+}
+.style12 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #ffffff;
+}
+.style13 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #37baa6;
+}
+.style14 {
+	-moz-transform: skewx(-13deg);
+	-o-transform: skewx(-13deg);
+	-webkit-transform: skewx(-13deg);
+	transform: skewx(-13deg);
+	display: inline-block;
+	font-family: Billy;
+	font-size: 55.6413694992401px;
+	color: #ffffff;
+}
+.style15 {
+	-moz-transform: skewx(-13deg);
+	-o-transform: skewx(-13deg);
+	-webkit-transform: skewx(-13deg);
+	transform: skewx(-13deg);
+	display: inline-block;
+	font-family: Billy;
+	font-size: 73.3453416728802px;
+	color: #fdce55;
+}
+.style16 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #fdd370;
+}
+.style17 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #fdce55;
+}
+.style18 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-334deg);
+	-o-transform: rotate(-334deg);
+	display: inline-block;
+}
+.style19 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-337deg);
+	-o-transform: rotate(-337deg);
+	display: inline-block;
+}
+.style20 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-338deg);
+	-o-transform: rotate(-338deg);
+	display: inline-block;
+}
+.style21 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-340deg);
+	-o-transform: rotate(-340deg);
+	display: inline-block;
+}
+.style22 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-342deg);
+	-o-transform: rotate(-342deg);
+	display: inline-block;
+}
+.style23 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-344deg);
+	-o-transform: rotate(-344deg);
+	display: inline-block;
+}
+.style24 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-345deg);
+	-o-transform: rotate(-345deg);
+	display: inline-block;
+}
+.style25 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-347deg);
+	-o-transform: rotate(-347deg);
+	display: inline-block;
+}
+.style26 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-349deg);
+	-o-transform: rotate(-349deg);
+	display: inline-block;
+}
+.style27 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-350deg);
+	-o-transform: rotate(-350deg);
+	display: inline-block;
+}
+.style28 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-351deg);
+	-o-transform: rotate(-351deg);
+	display: inline-block;
+}
+.style29 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-353deg);
+	-o-transform: rotate(-353deg);
+	display: inline-block;
+}
+.style30 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-355deg);
+	-o-transform: rotate(-355deg);
+	display: inline-block;
+}
+.style31 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-356deg);
+	-o-transform: rotate(-356deg);
+	display: inline-block;
+}
+.style32 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-358deg);
+	-o-transform: rotate(-358deg);
+	display: inline-block;
+}
+.style33 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+}
+.style34 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-4deg);
+	-o-transform: rotate(-4deg);
+	display: inline-block;
+}
+.style35 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-5deg);
+	-o-transform: rotate(-5deg);
+	display: inline-block;
+}
+.style36 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-7deg);
+	-o-transform: rotate(-7deg);
+	display: inline-block;
+}
+.style37 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-8deg);
+	-o-transform: rotate(-8deg);
+	display: inline-block;
+}
+.style38 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-9deg);
+	-o-transform: rotate(-9deg);
+	display: inline-block;
+}
+.style39 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-12deg);
+	-o-transform: rotate(-12deg);
+	display: inline-block;
+}
+.style40 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-13deg);
+	-o-transform: rotate(-13deg);
+	display: inline-block;
+}
+.style41 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-15deg);
+	-o-transform: rotate(-15deg);
+	display: inline-block;
+}
+.style42 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-17deg);
+	-o-transform: rotate(-17deg);
+	display: inline-block;
+}
+.style43 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-19deg);
+	-o-transform: rotate(-19deg);
+	display: inline-block;
+}
+.style44 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-21deg);
+	-o-transform: rotate(-21deg);
+	display: inline-block;
+}
+.style45 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-22deg);
+	-o-transform: rotate(-22deg);
+	display: inline-block;
+}
+.style46 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-24deg);
+	-o-transform: rotate(-24deg);
+	display: inline-block;
+}
+.style47 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-26deg);
+	-o-transform: rotate(-26deg);
+	display: inline-block;
+}
+.style48 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-22deg);
+	-o-transform: rotate(-22deg);
+	display: inline-block;
+}
+.style49 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-20deg);
+	-o-transform: rotate(-20deg);
+	display: inline-block;
+}
+.style50 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-18deg);
+	-o-transform: rotate(-18deg);
+	display: inline-block;
+}
+.style51 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-17deg);
+	-o-transform: rotate(-17deg);
+	display: inline-block;
+}
+.style52 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-16deg);
+	-o-transform: rotate(-16deg);
+	display: inline-block;
+}
+.style53 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-14deg);
+	-o-transform: rotate(-14deg);
+	display: inline-block;
+}
+.style54 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-13deg);
+	-o-transform: rotate(-13deg);
+	display: inline-block;
+}
+.style55 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-11deg);
+	-o-transform: rotate(-11deg);
+	display: inline-block;
+}
+.style56 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-13deg);
+	-o-transform: rotate(-13deg);
+	display: inline-block;
+}
+.style57 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-3deg);
+	-o-transform: rotate(-3deg);
+	display: inline-block;
+}
+.style58 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-354deg);
+	-o-transform: rotate(-354deg);
+	display: inline-block;
+}
+.style59 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-352deg);
+	-o-transform: rotate(-352deg);
+	display: inline-block;
+}
+.style60 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-348deg);
+	-o-transform: rotate(-348deg);
+	display: inline-block;
+}
+.style61 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-346deg);
+	-o-transform: rotate(-346deg);
+	display: inline-block;
+}
+.style62 {
+	font-family: Billy;
+	font-size: 53.7456233999777px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-337deg);
+	-o-transform: rotate(-337deg);
+	display: inline-block;
+}
+.style63 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #5d1748;
+}
+.style64 {
+	font-family: Billy;
+	font-size: 73.289153322px;
+	color: #5d1748;
+}
+.style65 {
+	font-family: Billy;
+	font-size: 55.7453791028px;
+	color: #4e351b;
+}
+.style66 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ae2a21;
+}
+.style67 {
+	font-family: Billy;
+	font-size: 55.7453791028px;
+	color: #f2e7d0;
+}
+.style68 {
+	font-family: "Billy";
+	font-size: 21.9867459966px;
+	color: #f8ebbe;
+}
+.style69 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-329deg);
+	-o-transform: rotate(-329deg);
+	display: inline-block;
+}
+.style70 {
+	font-family: Billy;
+	font-size: 53.7451348056223px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-333deg);
+	-o-transform: rotate(-333deg);
+	display: inline-block;
+}
+.style71 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-335deg);
+	-o-transform: rotate(-335deg);
+	display: inline-block;
+}
+.style72 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-341deg);
+	-o-transform: rotate(-341deg);
+	display: inline-block;
+}
+.style73 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-343deg);
+	-o-transform: rotate(-343deg);
+	display: inline-block;
+}
+.style74 {
+	font-family: Billy;
+	font-size: 70.8459372474223px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-9deg);
+	-o-transform: rotate(-9deg);
+	display: inline-block;
+}
+.style75 {
+	font-family: Billy;
+	font-size: 70.8459372474223px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-11deg);
+	-o-transform: rotate(-11deg);
+	display: inline-block;
+}
+.style76 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-14deg);
+	-o-transform: rotate(-14deg);
+	display: inline-block;
+}
+.style77 {
+	font-family: Billy;
+	font-size: 53.7456233999777px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-17deg);
+	-o-transform: rotate(-17deg);
+	display: inline-block;
+}
+.style78 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-21deg);
+	-o-transform: rotate(-21deg);
+	display: inline-block;
+}
+.style79 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-23deg);
+	-o-transform: rotate(-23deg);
+	display: inline-block;
+}
+.style80 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-25deg);
+	-o-transform: rotate(-25deg);
+	display: inline-block;
+}
+.style81 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-27deg);
+	-o-transform: rotate(-27deg);
+	display: inline-block;
+}
+.style82 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-28deg);
+	-o-transform: rotate(-28deg);
+	display: inline-block;
+}
+.style83 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-31deg);
+	-o-transform: rotate(-31deg);
+	display: inline-block;
+}
+.style84 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-35deg);
+	-o-transform: rotate(-35deg);
+	display: inline-block;
+}
+.style85 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-33deg);
+	-o-transform: rotate(-33deg);
+	display: inline-block;
+}
+.style86 {
+	font-family: Billy;
+	font-size: 53.7451348056223px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-29deg);
+	-o-transform: rotate(-29deg);
+	display: inline-block;
+}
+.style87 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-24deg);
+	-o-transform: rotate(-24deg);
+	display: inline-block;
+}
+.style88 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-15deg);
+	-o-transform: rotate(-15deg);
+	display: inline-block;
+}
+.style89 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-12deg);
+	-o-transform: rotate(-12deg);
+	display: inline-block;
+}
+.style90 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-8deg);
+	-o-transform: rotate(-8deg);
+	display: inline-block;
+}
+.style91 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-6deg);
+	-o-transform: rotate(-6deg);
+	display: inline-block;
+}
+.style92 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-5deg);
+	-o-transform: rotate(-5deg);
+	display: inline-block;
+}
+.style93 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-3deg);
+	-o-transform: rotate(-3deg);
+	display: inline-block;
+}
+.style94 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-353deg);
+	-o-transform: rotate(-353deg);
+	display: inline-block;
+}
+.style95 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-351deg);
+	-o-transform: rotate(-351deg);
+	display: inline-block;
+}
+.style96 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-349deg);
+	-o-transform: rotate(-349deg);
+	display: inline-block;
+}
+.style97 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-339deg);
+	-o-transform: rotate(-339deg);
+	display: inline-block;
+}
+.style98 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-333deg);
+	-o-transform: rotate(-333deg);
+	display: inline-block;
+}
+.style99 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-332deg);
+	-o-transform: rotate(-332deg);
+	display: inline-block;
+}
+.style100 {
+	font-family: Billy;
+	font-size: 53.7451348056223px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-327deg);
+	-o-transform: rotate(-327deg);
+	display: inline-block;
+}
+.style101 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-325deg);
+	-o-transform: rotate(-325deg);
+	display: inline-block;
+}
+.style102 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #77142f;
+	position: absolute;
+	-webkit-transform: rotate(-6deg);
+	-o-transform: rotate(-6deg);
+	display: inline-block;
+}
+.style103 {
+	font-family: Billy;
+	font-size: 74.4197606605807px;
+	color: #77142f;
+	position: absolute;
+	-webkit-transform: rotate(-357deg);
+	-o-transform: rotate(-357deg);
+	display: inline-block;
+}
+.style104 {
+	font-family: Billy;
+	font-size: 73.289153322px;
+	color: #fdd370;
+}
+.style105 {
+	font-family: Billy;
+	font-size: 73.289153322px;
+	color: #dd8f2b;
+}
+.style106 {
+	font-family: Billy;
+	font-size: 94.2649975971119px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-6deg);
+	-o-transform: rotate(-6deg);
+	display: inline-block;
+}
+.style107 {
+	font-family: Billy;
+	font-size: 94.2649975971119px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-3deg);
+	-o-transform: rotate(-3deg);
+	display: inline-block;
+}
+.style108 {
+	font-family: Billy;
+	font-size: 94.2649975971119px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-2deg);
+	-o-transform: rotate(-2deg);
+	display: inline-block;
+}
+.style109 {
+	font-family: Billy;
+	font-size: 94.2649975971119px;
+	color: #fdd370;
+}
+.style110 {
+	font-family: Billy;
+	font-size: 94.2649975971119px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-359deg);
+	-o-transform: rotate(-359deg);
+	display: inline-block;
+}
+.style111 {
+	font-family: Billy;
+	font-size: 94.2649975971119px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-357deg);
+	-o-transform: rotate(-357deg);
+	display: inline-block;
+}
+.style112 {
+	font-family: Billy;
+	font-size: 94.2652418942896px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-355deg);
+	-o-transform: rotate(-355deg);
+	display: inline-block;
+}
+.style113 {
+	font-family: Billy;
+	font-size: 94.2649975971119px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-352deg);
+	-o-transform: rotate(-352deg);
+	display: inline-block;
+}
+.style114 {
+	font-family: Billy;
+	font-size: 94.2652418942896px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-351deg);
+	-o-transform: rotate(-351deg);
+	display: inline-block;
+}
+.style115 {
+	font-family: Billy;
+	font-size: 94.2649975971119px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-349deg);
+	-o-transform: rotate(-349deg);
+	display: inline-block;
+}
+.style116 {
+	font-family: Billy;
+	font-size: 94.2649975971119px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-347deg);
+	-o-transform: rotate(-347deg);
+	display: inline-block;
+}
+.style117 {
+	font-family: Billy;
+	font-size: 94.2649975971119px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-345deg);
+	-o-transform: rotate(-345deg);
+	display: inline-block;
+}
+.style118 {
+	font-family: Billy;
+	font-size: 94.2649975971119px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-344deg);
+	-o-transform: rotate(-344deg);
+	display: inline-block;
+}
+.style119 {
+	font-family: Billy;
+	font-size: 94.2649975971119px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-343deg);
+	-o-transform: rotate(-343deg);
+	display: inline-block;
+}
+.style120 {
+	font-family: Billy;
+	font-size: 94.2649975971119px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-342deg);
+	-o-transform: rotate(-342deg);
+	display: inline-block;
+}
+.style121 {
+	font-family: Billy;
+	font-size: 94.2649975971119px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-11deg);
+	-o-transform: rotate(-11deg);
+	display: inline-block;
+}
+.style122 {
+	font-family: Billy;
+	font-size: 106.668453905327px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-13deg);
+	-o-transform: rotate(-13deg);
+	display: inline-block;
+}
+.style123 {
+	font-family: Billy;
+	font-size: 106.668453905327px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-8deg);
+	-o-transform: rotate(-8deg);
+	display: inline-block;
+}
+.style124 {
+	font-family: Billy;
+	font-size: 106.668453905327px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-7deg);
+	-o-transform: rotate(-7deg);
+	display: inline-block;
+}
+.style125 {
+	font-family: Billy;
+	font-size: 106.668209608149px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-5deg);
+	-o-transform: rotate(-5deg);
+	display: inline-block;
+}
+.style126 {
+	font-family: Billy;
+	font-size: 106.668209608149px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-3deg);
+	-o-transform: rotate(-3deg);
+	display: inline-block;
+}
+.style127 {
+	font-family: Billy;
+	font-size: 106.668209608149px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-2deg);
+	-o-transform: rotate(-2deg);
+	display: inline-block;
+}
+.style128 {
+	font-family: Billy;
+	font-size: 106.668209608149px;
+	color: #fdd370;
+}
+.style129 {
+	font-family: Billy;
+	font-size: 106.668453905327px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-359deg);
+	-o-transform: rotate(-359deg);
+	display: inline-block;
+}
+.style130 {
+	font-family: Billy;
+	font-size: 106.668209608149px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-356deg);
+	-o-transform: rotate(-356deg);
+	display: inline-block;
+}
+.style131 {
+	font-family: Billy;
+	font-size: 94.2649975971119px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-351deg);
+	-o-transform: rotate(-351deg);
+	display: inline-block;
+}
+.style132 {
+	font-family: Billy;
+	font-size: 94.2652418942896px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-349deg);
+	-o-transform: rotate(-349deg);
+	display: inline-block;
+}
+.style133 {
+	font-family: Billy;
+	font-size: 94.2649975971119px;
+	color: #fdd370;
+	position: absolute;
+	-webkit-transform: rotate(-348deg);
+	-o-transform: rotate(-348deg);
+	display: inline-block;
+}
+.style134 {
+	font-family: Billy;
+	font-size: 32.1267889530542px;
+	color: #003457;
+}
+.style135 {
+	font-family: Billy;
+	font-size: 41.1900612809924px;
+	color: #003457;
+}
+.style0135 {
+	font-family: Virgin;
+	font-size: 48.1900612809924px;
+	color: #003457;
+}
+.style136 {
+	font-family: Virgin;
+	font-size: 40.1585472656122px;
+	color: #003457;
+}
+.style137 {
+	font-family: Billy;
+	font-size: 40.1585472656122px;
+	color: #003457;
+}
+.style138 {
+	font-family: Virgin;
+	font-size: 318.878663132245px;
+	color: #003457;
+}
+.style139 {
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 159.4395758633px;
+	color: #003457;
+}
+.style140 {
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 101.942036407591px;
+	color: #003457;
+}
+.style141 {
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 101.942036407591px;
+	color: #003457;
+}
+.style142 {
+	font-family: Virgin;
+	font-size: 297.61992272531px;
+	color: #003457;
+}
+.style143 {
+	font-family: jigmiafuturabtmedium;
+	font-size: 75.8984914774409px;
+	color: #ffffff;
+}
+.style144 {
+	font-family: jigmnonewsgothic;
+	font-size: 21.033987003414px;
+	color: #f26d20;
+}
+.style145 {
+	font-family: jihlccwoodfactory;
+	font-size: 49.1545465387099px;
+	color: #d44526;
+	position: absolute;
+	-webkit-transform: rotate(-356deg);
+	-o-transform: rotate(-356deg);
+	display: inline-block;
+}
+.style146 {
+	font-family: jihlccwoodfactory;
+	font-size: 49.1545465387099px;
+	color: #d44526;
+	position: absolute;
+	-webkit-transform: rotate(-357deg);
+	-o-transform: rotate(-357deg);
+	display: inline-block;
+}
+.style147 {
+	font-family: jihlccwoodfactory;
+	font-size: 49.1543022415322px;
+	color: #d44526;
+	position: absolute;
+	-webkit-transform: rotate(-356deg);
+	-o-transform: rotate(-356deg);
+	display: inline-block;
+}
+.style148 {
+	font-family: jihlccwoodfactory;
+	font-size: 49.1545465387099px;
+	color: #d44526;
+	position: absolute;
+	-webkit-transform: rotate(-354deg);
+	-o-transform: rotate(-354deg);
+	display: inline-block;
+}
+.style149 {
+	font-family: jihlccwoodfactory;
+	font-size: 49.1540579443544px;
+	color: #d44526;
+	position: absolute;
+	-webkit-transform: rotate(-356deg);
+	-o-transform: rotate(-356deg);
+	display: inline-block;
+}
+.style150 {
+	font-family: jigmiafuturabtmedium;
+	font-size: 46.447489512173px;
+	color: #0059a9;
+}
+.style151 {
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 55.6501641976388px;
+	color: #221e1f;
+	position: absolute;
+	-webkit-transform: rotate(-4deg);
+	-o-transform: rotate(-4deg);
+	display: inline-block;
+}
+.style152 {
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 55.6501641976388px;
+	color: #221e1f;
+	position: absolute;
+	-webkit-transform: rotate(-5deg);
+	-o-transform: rotate(-5deg);
+	display: inline-block;
+}
+.style153 {
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 55.6501641976388px;
+	color: #221e1f;
+	position: absolute;
+	-webkit-transform: rotate(-6deg);
+	-o-transform: rotate(-6deg);
+	display: inline-block;
+}
+.style154 {
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 55.6501641976388px;
+	color: #221e1f;
+	position: absolute;
+	-webkit-transform: rotate(-7deg);
+	-o-transform: rotate(-7deg);
+	display: inline-block;
+}
+.style155 {
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 55.649919900461px;
+	color: #221e1f;
+	position: absolute;
+	-webkit-transform: rotate(-7deg);
+	-o-transform: rotate(-7deg);
+	display: inline-block;
+}
+.style156 {
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 55.649919900461px;
+	color: #221e1f;
+	position: absolute;
+	-webkit-transform: rotate(-6deg);
+	-o-transform: rotate(-6deg);
+	display: inline-block;
+}
+.style157 {
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 55.649919900461px;
+	color: #221e1f;
+	position: absolute;
+	-webkit-transform: rotate(-3deg);
+	-o-transform: rotate(-3deg);
+	display: inline-block;
+}
+.style158 {
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 55.649919900461px;
+	color: #221e1f;
+	position: absolute;
+	-webkit-transform: rotate(-4deg);
+	-o-transform: rotate(-4deg);
+	display: inline-block;
+}
+.style159 {
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 55.6501641976388px;
+	color: #221e1f;
+	position: absolute;
+	-webkit-transform: rotate(-1deg);
+	-o-transform: rotate(-1deg);
+	display: inline-block;
+}
+.style160 {
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 55.6501641976388px;
+	color: #221e1f;
+	position: absolute;
+	-webkit-transform: rotate(-3deg);
+	-o-transform: rotate(-3deg);
+	display: inline-block;
+}
+.style161 {
+	font-family: Virgin;
+	font-size: 83.4751241478693px;
+	color: #221e1f;
+	position: absolute;
+	-webkit-transform: rotate(-6deg);
+	-o-transform: rotate(-6deg);
+	display: inline-block;
+}
+.style162 {
+	font-family: Virgin;
+	font-size: 83.4751241478693px;
+	color: #221e1f;
+	position: absolute;
+	-webkit-transform: rotate(-5deg);
+	-o-transform: rotate(-5deg);
+	display: inline-block;
+}
+.style163 {
+	font-family: Virgin;
+	font-size: 83.4751241478693px;
+	color: #221e1f;
+}
+.style164 {
+	font-family: Virgin;
+	font-size: 83.4751241478693px;
+	color: #221e1f;
+}
+.style165 {
+	font-family: Virgin;
+	font-size: 83.4751241478693px;
+	color: #221e1f;
+	position: absolute;
+	-webkit-transform: rotate(-1deg);
+	-o-transform: rotate(-1deg);
+	display: inline-block;
+}
+.style166 {
+	font-family: Virgin;
+	font-size: 83.4751241478693px;
+	color: #221e1f;
+	position: absolute;
+	-webkit-transform: rotate(-4deg);
+	-o-transform: rotate(-4deg);
+	display: inline-block;
+}
+.style167 {
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 55.6501641976388px;
+	color: #221e1f;
+}
+.style168 {
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 55.649919900461px;
+	color: #221e1f;
+	position: absolute;
+	-webkit-transform: rotate(-2deg);
+	-o-transform: rotate(-2deg);
+	display: inline-block;
+}
+.style169 {
+	font-family: Virgin;
+	font-size: 83.4751241478693px;
+	color: #221e1f;
+	position: absolute;
+	-webkit-transform: rotate(-7deg);
+	-o-transform: rotate(-7deg);
+	display: inline-block;
+}
+.style170 {
+	font-family: Virgin;
+	font-size: 83.4748798506916px;
+	color: #221e1f;
+	position: absolute;
+	-webkit-transform: rotate(-7deg);
+	-o-transform: rotate(-7deg);
+	display: inline-block;
+}
+.style171 {
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 55.649919900461px;
+	color: #221e1f;
+}
+.style172 {
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 55.6501641976388px;
+	color: #221e1f;
+	position: absolute;
+	-webkit-transform: rotate(-2deg);
+	-o-transform: rotate(-2deg);
+	display: inline-block;
+}
+.style173 {
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 55.6501641976388px;
+	color: #221e1f;
+	position: absolute;
+	-webkit-transform: rotate(-1deg);
+	-o-transform: rotate(-1deg);
+	display: inline-block;
+}
+.style174 {
+	font-family: Virgin;
+	font-size: 83.4748798506916px;
+	color: #221e1f;
+	position: absolute;
+	-webkit-transform: rotate(-5deg);
+	-o-transform: rotate(-5deg);
+	display: inline-block;
+}
+.style175 {
+	psmatch: nn;
+	font-family: jfldkkgloucestermtextracondensed;
+	font-size: 55.6501641976388px;
+	color: #221e1f;
+	position: absolute;
+	-webkit-transform: rotate(-4deg);
+	-o-transform: rotate(-4deg);
+	display: inline-block;
+}
+.style177 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #dd8f2b;
+}
+.style178 {
+	-moz-transform: skewx(-13deg);
+	-o-transform: skewx(-13deg);
+	-webkit-transform: skewx(-13deg);
+	transform: skewx(-13deg);
+	display: inline-block;
+	font-family: Billy;
+	font-size: 75.3453416728802px;
+	color: #dd8f2b;
+}
+.style179 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #6b5d86;
+}
+.style180 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-336deg);
+	-o-transform: rotate(-336deg);
+	display: inline-block;
+}
+.style181 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-338deg);
+	-o-transform: rotate(-338deg);
+	display: inline-block;
+}
+.style182 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-340deg);
+	-o-transform: rotate(-340deg);
+	display: inline-block;
+}
+.style183 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-341deg);
+	-o-transform: rotate(-341deg);
+	display: inline-block;
+}
+.style184 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-343deg);
+	-o-transform: rotate(-343deg);
+	display: inline-block;
+}
+.style185 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-345deg);
+	-o-transform: rotate(-345deg);
+	display: inline-block;
+}
+.style186 {
+	font-family: Billy;
+	font-size: 53.7451348056223px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-354deg);
+	-o-transform: rotate(-354deg);
+	display: inline-block;
+}
+.style187 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-357deg);
+	-o-transform: rotate(-357deg);
+	display: inline-block;
+}
+.style188 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-359deg);
+	-o-transform: rotate(-359deg);
+	display: inline-block;
+}
+.style189 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-1deg);
+	-o-transform: rotate(-1deg);
+	display: inline-block;
+}
+.style190 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-4deg);
+	-o-transform: rotate(-4deg);
+	display: inline-block;
+}
+.style191 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-7deg);
+	-o-transform: rotate(-7deg);
+	display: inline-block;
+}
+.style192 {
+	font-family: Billy;
+	font-size: 53.7456233999777px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-12deg);
+	-o-transform: rotate(-12deg);
+	display: inline-block;
+}
+.style193 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-19deg);
+	-o-transform: rotate(-19deg);
+	display: inline-block;
+}
+.style194 {
+	font-family: Billy;
+	font-size: 53.7456233999777px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-21deg);
+	-o-transform: rotate(-21deg);
+	display: inline-block;
+}
+.style195 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-9deg);
+	-o-transform: rotate(-9deg);
+	display: inline-block;
+}
+.style196 {
+	font-family: Billy;
+	font-size: 53.7453791028px;
+	color: #4e351b;
+	position: absolute;
+	-webkit-transform: rotate(-2deg);
+	-o-transform: rotate(-2deg);
+	display: inline-block;
+}
+.style197 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-344deg);
+	-o-transform: rotate(-344deg);
+	display: inline-block;
+}
+.style198 {
+	font-family: Billy;
+	font-size: 70.8459372474223px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-339deg);
+	-o-transform: rotate(-339deg);
+	display: inline-block;
+}
+.style199 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-335deg);
+	-o-transform: rotate(-335deg);
+	display: inline-block;
+}
+.style200 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #ec7b26;
+	position: absolute;
+	-webkit-transform: rotate(-333deg);
+	-o-transform: rotate(-333deg);
+	display: inline-block;
+}
+.style201 {
+	font-family: Billy;
+	font-size: 70.8461815446px;
+	color: #63a9d0;
+}
+.style202 {
+	-moz-transform: skewx(-6deg);
+	-o-transform: skewx(-6deg);
+	-webkit-transform: skewx(-6deg);
+	transform: skewx(-6deg);
+	display: inline-block;
+	font-family: Billy;
+	font-size: 71.0191439464399px;
+	color: #63a9d0;
+}
+.style176 {
+	font-family: "Virgin";
+	font-size: 122.14858887px;
+	color: #dd8f2b;
+}
+.italic {
+	-moz-transform: skewx(-13deg);
+	-o-transform: skewx(-13deg);
+	-webkit-transform: skewx(-13deg);
+	transform: skewx(-14deg);
+	display: inline-block;
+	font-size: 75.3453416728802px;
+	font-family: Billy;
+	color: #dd8f2b;
+}
+.italic2 {
+	-moz-transform: skewx(-13deg);
+	-o-transform: skewx(-13deg);
+	-webkit-transform: skewx(-13deg);
+	transform: skewx(-14deg);
+	display: inline-block;
+	font-size: 75.3453416728802px;
+	font-family: Billy;
+	color: #63a9d0;
+}
+.bold {
+	font-family: Billy;
+	font-size: 77.8461815446px;
+	color: #75C0C6;
+}
+.black {
+	color: #4e351b;
+}
+.media-overlay-active {
+	color: #f00 !important;
+}
+span.arial {
+	font-family: "Arial";
+}
+.media-overlay-active .style4, .media-overlay-active .style5, .media-overlay-active .style6, .media-overlay-active .style7, .media-overlay-active .style8, .media-overlay-active .style9, .media-overlay-active .style10, .media-overlay-active .style11, .media-overlay-active .style12, .media-overlay-active .style13, .media-overlay-active .style14, .media-overlay-active .style15, .media-overlay-active .style16, .media-overlay-active .style17, .media-overlay-active .style18, .media-overlay-active .style19, .media-overlay-active .style20, .media-overlay-active .style21, .media-overlay-active .style22, .media-overlay-active .style23, .media-overlay-active .style24, .media-overlay-active .style25, .media-overlay-active .style26, .media-overlay-active .style27, .media-overlay-active .style28, .media-overlay-active .style29, .media-overlay-active .style30, .media-overlay-active .style31, .media-overlay-active .style32, .media-overlay-active .style33, .media-overlay-active .style34, .media-overlay-active .style35, .media-overlay-active .style36, .media-overlay-active .style37, .media-overlay-active .style38, .media-overlay-active .style39, .media-overlay-active .style40, .media-overlay-active .style41, .media-overlay-active .style42, .media-overlay-active .style43, .media-overlay-active .style44, .media-overlay-active .style45, .media-overlay-active .style46, .media-overlay-active .style47, .media-overlay-active .style48, .media-overlay-active .style49, .media-overlay-active .style50, .media-overlay-active .style51, .media-overlay-active .style52, .media-overlay-active .style53, .media-overlay-active .style54, .media-overlay-active .style55, .media-overlay-active .style56, .media-overlay-active .style57, .media-overlay-active .style58, .media-overlay-active .style59, .media-overlay-active .style60, .media-overlay-active .style61, .media-overlay-active .style62, .media-overlay-active .style63, .media-overlay-active .style64, .media-overlay-active .style65, .media-overlay-active .style66, .media-overlay-active .style67, .media-overlay-active .style68, .media-overlay-active .style69, .media-overlay-active .style70, .media-overlay-active .style71, .media-overlay-active .style72, .media-overlay-active .style73, .media-overlay-active .style74, .media-overlay-active .style75, .media-overlay-active .style76, .media-overlay-active .style77, .media-overlay-active .style78, .media-overlay-active .style79, .media-overlay-active .style80, .media-overlay-active .style81, .media-overlay-active .style82, .media-overlay-active .style83, .media-overlay-active .style84, .media-overlay-active .style85, .media-overlay-active .style86, .media-overlay-active .style87, .media-overlay-active .style88, .media-overlay-active .style89, .media-overlay-active .style90, .media-overlay-active .style91, .media-overlay-active .style92, .media-overlay-active .style93, .media-overlay-active .style94, .media-overlay-active .style95, .media-overlay-active .style96, .media-overlay-active .style97, .media-overlay-active .style98, .media-overlay-active .style99, .media-overlay-active .style100, .media-overlay-active .style101, .media-overlay-active .style102, .media-overlay-active .style103, .media-overlay-active .style104, .media-overlay-active .style105, .media-overlay-active .style106, .media-overlay-active .style107, .media-overlay-active .style108, .media-overlay-active .style109, .media-overlay-active .style110, .media-overlay-active .style111, .media-overlay-active .style112, .media-overlay-active .style113, .media-overlay-active .style114, .media-overlay-active .style115, .media-overlay-active .style116, .media-overlay-active .style117, .media-overlay-active .style118, .media-overlay-active .style119, .media-overlay-active .style120, .media-overlay-active .style121, .media-overlay-active .style122, .media-overlay-active .style123, .media-overlay-active .style124, .media-overlay-active .style125, .media-overlay-active .style126, .media-overlay-active .style127, .media-overlay-active .style128, .media-overlay-active .style129, .media-overlay-active .style130, .media-overlay-active .style131, .media-overlay-active .style132, .media-overlay-active .style133, .media-overlay-active .style134, .media-overlay-active .style135, .media-overlay-active .style0135, .media-overlay-active .style136, .media-overlay-active .style137, .media-overlay-active .style138, .media-overlay-active .style139, .media-overlay-active .style140, .media-overlay-active .style141, .media-overlay-active .style142, .media-overlay-active .style143, .media-overlay-active .style144, .media-overlay-active .style145, .media-overlay-active .style146, .media-overlay-active .style147, .media-overlay-active .style148, .media-overlay-active .style149, .media-overlay-active .style150, .media-overlay-active .style151, .media-overlay-active .style152, .media-overlay-active .style153, .media-overlay-active .style154, .media-overlay-active .style155, .media-overlay-active .style156, .media-overlay-active .style157, .media-overlay-active .style158, .media-overlay-active .style159, .media-overlay-active .style160, .media-overlay-active .style161, .media-overlay-active .style162, .media-overlay-active .style163, .media-overlay-active .style164, .media-overlay-active .style165, .media-overlay-active .style166, .media-overlay-active .style167, .media-overlay-active .style168, .media-overlay-active .style169, .media-overlay-active .style170, .media-overlay-active .style171, .media-overlay-active .style172, .media-overlay-active .style173, .media-overlay-active .style174, .media-overlay-active .style175, .media-overlay-active .style177, .media-overlay-active .style178, .media-overlay-active .style179, .media-overlay-active .style180, .media-overlay-active .style181, .media-overlay-active .style182, .media-overlay-active .style183, .media-overlay-active .style184, .media-overlay-active .style185, .media-overlay-active .style186, .media-overlay-active .style187, .media-overlay-active .style188, .media-overlay-active .style189, .media-overlay-active .style190, .media-overlay-active .style191, .media-overlay-active .style192, .media-overlay-active .style193, .media-overlay-active .style194, .media-overlay-active .style195, .media-overlay-active .style196, .media-overlay-active .style197, .media-overlay-active .style198, .media-overlay-active .style199, .media-overlay-active .style200, .media-overlay-active .style201, .media-overlay-active .italic, .media-overlay-active .italic2, .media-overlay-active .bold, .media-overlay-active .black, .media-overlay-active .highlight, .media-overlay-active .style202 {
+	color: #f00 !important;
+}
+
+/* additional */
+
+.green {color:#f2e7d0}
+.media-overlay-active .green
+    { color:#A79833 !important; fill:#A79833 !important;}
+	
+.green2 {color:#fdd370}
+.media-overlay-active .green2
+    { color:#A79833 !important; fill:#A79833 !important;}	
+

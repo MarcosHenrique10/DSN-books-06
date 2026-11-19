@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id311g">
+			<!--  -->
+			<text src="../031.xhtml#empty"/>
+			<audio clipBegin="182270ms" clipEnd="182745ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id311">
+			<!-- The -->
+			<text src="../031.xhtml#w311"/>
+			<audio clipBegin="182745ms" clipEnd="182825ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id312">
+			<!-- band -->
+			<text src="../031.xhtml#w312"/>
+			<audio clipBegin="182825ms" clipEnd="183405ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id313">
+			<!-- plays -->
+			<text src="../031.xhtml#w313"/>
+			<audio clipBegin="183405ms" clipEnd="184175ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id314">
+			<!-- The -->
+			<text src="../031.xhtml#w314"/>
+			<audio clipBegin="184175ms" clipEnd="184295ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id315">
+			<!-- birds -->
+			<text src="../031.xhtml#w315"/>
+			<audio clipBegin="184295ms" clipEnd="184825ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id316">
+			<!-- sing -->
+			<text src="../031.xhtml#w316"/>
+			<audio clipBegin="184825ms" clipEnd="185825ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id317">
+			<!-- Anna's -->
+			<text src="../031.xhtml#w317"/>
+			<audio clipBegin="185825ms" clipEnd="186305ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id318">
+			<!-- friends -->
+			<text src="../031.xhtml#w318"/>
+			<audio clipBegin="186305ms" clipEnd="186875ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id319">
+			<!-- cheer -->
+			<text src="../031.xhtml#w319"/>
+			<audio clipBegin="186875ms" clipEnd="187555ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id319g">
+			<!--  -->
+			<text src="../031.xhtml#empty1"/>
+			<audio clipBegin="187555ms" clipEnd="188380ms" src="../audio/9781484786918.m4a"/>
+		</par>
+	</body>
+</smil>

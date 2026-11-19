@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id67g">
+      <!--  -->
+      <text src="../009.xhtml#empty"/>
+      <audio clipBegin="46202ms" clipEnd="46424ms" src="../audio/9781484717813.m4a"/>
+    </par>
+    <par id="id67">
+      <!-- Olaf -->
+      <text src="../009.xhtml#w67"/>
+      <audio clipBegin="46424ms" clipEnd="46964ms" src="../audio/9781484717813.m4a"/>
+    </par>
+    <par id="id68">
+      <!-- would -->
+      <text src="../009.xhtml#w68"/>
+      <audio clipBegin="46964ms" clipEnd="47124ms" src="../audio/9781484717813.m4a"/>
+    </par>
+    <par id="id69">
+      <!-- relax -->
+      <text src="../009.xhtml#w69"/>
+      <audio clipBegin="47124ms" clipEnd="47774ms" src="../audio/9781484717813.m4a"/>
+    </par>
+    <par id="id70">
+      <!-- on -->
+      <text src="../009.xhtml#w70"/>
+      <audio clipBegin="47774ms" clipEnd="47904ms" src="../audio/9781484717813.m4a"/>
+    </par>
+    <par id="id71">
+      <!-- a -->
+      <text src="../009.xhtml#w71"/>
+      <audio clipBegin="47904ms" clipEnd="47984ms" src="../audio/9781484717813.m4a"/>
+    </par>
+    <par id="id72">
+      <!-- bright -->
+      <text src="../009.xhtml#w72"/>
+      <audio clipBegin="47984ms" clipEnd="48534ms" src="../audio/9781484717813.m4a"/>
+    </par>
+    <par id="id73">
+      <!-- snowless -->
+      <text src="../009.xhtml#w73"/>
+      <audio clipBegin="48534ms" clipEnd="49344ms" src="../audio/9781484717813.m4a"/>
+    </par>
+    <par id="id74">
+      <!-- beach -->
+      <text src="../009.xhtml#w74"/>
+      <audio clipBegin="49344ms" clipEnd="50184ms" src="../audio/9781484717813.m4a"/>
+    </par>
+    <par id="id75">
+      <!-- wearing -->
+      <text src="../009.xhtml#w75"/>
+      <audio clipBegin="50184ms" clipEnd="50634ms" src="../audio/9781484717813.m4a"/>
+    </par>
+    <par id="id76">
+      <!-- sunglasses -->
+      <text src="../009.xhtml#w76"/>
+      <audio clipBegin="50634ms" clipEnd="51844ms" src="../audio/9781484717813.m4a"/>
+    </par>
+    <par id="id77">
+      <!-- and -->
+      <text src="../009.xhtml#w77"/>
+      <audio clipBegin="51844ms" clipEnd="51954ms" src="../audio/9781484717813.m4a"/>
+    </par>
+    <par id="id78">
+      <!-- sipping -->
+      <text src="../009.xhtml#w78"/>
+      <audio clipBegin="51954ms" clipEnd="52454ms" src="../audio/9781484717813.m4a"/>
+    </par>
+    <par id="id79">
+      <!-- juice -->
+      <text src="../009.xhtml#w79"/>
+      <audio clipBegin="52454ms" clipEnd="53774ms" src="../audio/9781484717813.m4a"/>
+    </par>
+    <par id="id80">
+      <!-- Oh -->
+      <text src="../009.xhtml#w80"/>
+      <audio clipBegin="53774ms" clipEnd="54284ms" src="../audio/9781484717813.m4a"/>
+    </par>
+    <par id="id81">
+      <!-- this -->
+      <text src="../009.xhtml#w81"/>
+      <audio clipBegin="54284ms" clipEnd="54504ms" src="../audio/9781484717813.m4a"/>
+    </par>
+    <par id="id82">
+      <!-- is -->
+      <text src="../009.xhtml#w82"/>
+      <audio clipBegin="54504ms" clipEnd="54664ms" src="../audio/9781484717813.m4a"/>
+    </par>
+    <par id="id83">
+      <!-- so -->
+      <text src="../009.xhtml#w83"/>
+      <audio clipBegin="54664ms" clipEnd="55404ms" src="../audio/9781484717813.m4a"/>
+    </par>
+    <par id="id84">
+      <!-- peaceful -->
+      <text src="../009.xhtml#w84"/>
+      <audio clipBegin="55404ms" clipEnd="56484ms" src="../audio/9781484717813.m4a"/>
+    </par>
+    <par id="id85">
+      <!-- he'd -->
+      <text src="../009.xhtml#w85"/>
+      <audio clipBegin="56484ms" clipEnd="56734ms" src="../audio/9781484717813.m4a"/>
+    </par>
+    <par id="id86">
+      <!-- say -->
+      <text src="../009.xhtml#w86"/>
+      <audio clipBegin="56734ms" clipEnd="57174ms" src="../audio/9781484717813.m4a"/>
+    </par>
+    <par id="id86g">
+      <!--  -->
+      <text src="../009.xhtml#empty"/>
+      <audio clipBegin="57174ms" clipEnd="58079ms" src="../audio/9781484717813.m4a"/>
+    </par>
+  </body>
+</smil>

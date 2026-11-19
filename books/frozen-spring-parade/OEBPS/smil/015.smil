@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id127g">
+			<!--  -->
+			<text src="../015.xhtml#empty"/>
+			<audio clipBegin="83905ms" clipEnd="84365ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id127">
+			<!-- Elsa -->
+			<text src="../015.xhtml#w127"/>
+			<audio clipBegin="84365ms" clipEnd="85075ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id128">
+			<!-- adds -->
+			<text src="../015.xhtml#w128"/>
+			<audio clipBegin="85075ms" clipEnd="85595ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id129">
+			<!-- icy -->
+			<text src="../015.xhtml#w129"/>
+			<audio clipBegin="85595ms" clipEnd="86155ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id130">
+			<!-- touches -->
+			<text src="../015.xhtml#w130"/>
+			<audio clipBegin="86155ms" clipEnd="86795ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id131">
+			<!-- to -->
+			<text src="../015.xhtml#w131"/>
+			<audio clipBegin="86795ms" clipEnd="86945ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id132">
+			<!-- the -->
+			<text src="../015.xhtml#w132"/>
+			<audio clipBegin="86945ms" clipEnd="87025ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id133">
+			<!-- ballroom -->
+			<text src="../015.xhtml#w133"/>
+			<audio clipBegin="87025ms" clipEnd="88185ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id134">
+			<!-- Soon -->
+			<text src="../015.xhtml#w134"/>
+			<audio clipBegin="88185ms" clipEnd="88865ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id135">
+			<!-- the -->
+			<text src="../015.xhtml#w135"/>
+			<audio clipBegin="88865ms" clipEnd="89005ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id136">
+			<!-- ballroom -->
+			<text src="../015.xhtml#w136"/>
+			<audio clipBegin="89005ms" clipEnd="89855ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id137">
+			<!-- sparkles -->
+			<text src="../015.xhtml#w137"/>
+			<audio clipBegin="89855ms" clipEnd="91005ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id137g">
+			<!--  -->
+			<text src="../015.xhtml#empty1"/>
+			<audio clipBegin="91005ms" clipEnd="91845ms" src="../audio/9781484786918.m4a"/>
+		</par>
+	</body>
+</smil>

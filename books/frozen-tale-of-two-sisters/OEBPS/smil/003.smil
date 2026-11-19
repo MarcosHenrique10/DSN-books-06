@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1a">
+      <!---->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="200ms" clipEnd="16235ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- A -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="16235ms" clipEnd="16345ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Tale -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="16345ms" clipEnd="17015ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- of -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="17015ms" clipEnd="17195ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Two -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="17195ms" clipEnd="17535ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Sisters -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="17535ms" clipEnd="19275ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- By -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="19275ms" clipEnd="19425ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Melissa -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="19425ms" clipEnd="19995ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Lagonegro -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="19995ms" clipEnd="21685ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="21685ms" clipEnd="22395ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- by -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="22395ms" clipEnd="22595ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Maria -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="22595ms" clipEnd="23245ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Elena -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="23245ms" clipEnd="23715ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Naggi -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="23715ms" clipEnd="24545ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Studio -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="24545ms" clipEnd="25155ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- Iboix -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="25155ms" clipEnd="26105ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- and -->
+      <text src="../003.xhtml#w17"/>
+      <audio clipBegin="26105ms" clipEnd="26275ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id18">
+      <!-- the -->
+      <text src="../003.xhtml#w18"/>
+      <audio clipBegin="26275ms" clipEnd="26365ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id19">
+      <!-- Disney -->
+      <text src="../003.xhtml#w19"/>
+      <audio clipBegin="26365ms" clipEnd="26895ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id20">
+      <!-- Storybook -->
+      <text src="../003.xhtml#w20"/>
+      <audio clipBegin="26895ms" clipEnd="27565ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id21">
+      <!-- Artists -->
+      <text src="../003.xhtml#w21"/>
+      <audio clipBegin="27565ms" clipEnd="28225ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id21g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="28225ms" clipEnd="28893ms" src="../audio/9781423197232.m4a"/>
+    </par>
+  </body>
+</smil>

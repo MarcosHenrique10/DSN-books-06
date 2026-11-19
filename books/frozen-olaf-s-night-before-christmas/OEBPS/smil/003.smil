@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="12314ms" src="../audio/9781484730058.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Olaf's -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="12314ms" clipEnd="13054ms" src="../audio/9781484730058.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Night -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="13054ms" clipEnd="13744ms" src="../audio/9781484730058.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Before -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="13744ms" clipEnd="14504ms" src="../audio/9781484730058.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Christmas -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="14504ms" clipEnd="15474ms" src="../audio/9781484730058.m4a"/>
+    </par>
+    <par id="id4g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="15474ms" clipEnd="16894ms" src="../audio/9781484730058.m4a"/>
+    </par>
+  </body>
+</smil>

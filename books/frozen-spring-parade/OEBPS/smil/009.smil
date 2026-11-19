@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id68g">
+			<!--  -->
+			<text src="../009.xhtml#empty"/>
+			<audio clipBegin="50900ms" clipEnd="51385ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id68">
+			<!-- The -->
+			<text src="../009.xhtml#w68"/>
+			<audio clipBegin="51385ms" clipEnd="51485ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id69">
+			<!-- sisters -->
+			<text src="../009.xhtml#w69"/>
+			<audio clipBegin="51485ms" clipEnd="52145ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id70">
+			<!-- hug -->
+			<text src="../009.xhtml#w70"/>
+			<audio clipBegin="52145ms" clipEnd="53385ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id71">
+			<!-- Anna -->
+			<text src="../009.xhtml#w71"/>
+			<audio clipBegin="53385ms" clipEnd="53715ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id72">
+			<!-- is -->
+			<text src="../009.xhtml#w72"/>
+			<audio clipBegin="53715ms" clipEnd="53915ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id73">
+			<!-- happy -->
+			<text src="../009.xhtml#w73"/>
+			<audio clipBegin="53915ms" clipEnd="55015ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id74">
+			<!-- There -->
+			<text src="../009.xhtml#w74"/>
+			<audio clipBegin="55015ms" clipEnd="55245ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id75">
+			<!-- is -->
+			<text src="../009.xhtml#w75"/>
+			<audio clipBegin="55245ms" clipEnd="55385ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id76">
+			<!-- a -->
+			<text src="../009.xhtml#w76"/>
+			<audio clipBegin="55385ms" clipEnd="55435ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id77">
+			<!-- lot -->
+			<text src="../009.xhtml#w77"/>
+			<audio clipBegin="55435ms" clipEnd="55875ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id78">
+			<!-- to -->
+			<text src="../009.xhtml#w78"/>
+			<audio clipBegin="55875ms" clipEnd="56075ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id79">
+			<!-- plan -->
+			<text src="../009.xhtml#w79"/>
+			<audio clipBegin="56075ms" clipEnd="56585ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id79g">
+			<!--  -->
+			<text src="../009.xhtml#empty1"/>
+			<audio clipBegin="56585ms" clipEnd="57435ms" src="../audio/9781484786918.m4a"/>
+		</par>
+	</body>
+</smil>

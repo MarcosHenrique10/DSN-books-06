@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id245g">
+			<!--  -->
+			<text src="../024.xhtml#empty"/>
+			<audio clipBegin="145655ms" clipEnd="146465ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id245">
+			<!-- Kristoff -->
+			<text src="../024.xhtml#w245"/>
+			<audio clipBegin="146465ms" clipEnd="147065ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id246">
+			<!-- has -->
+			<text src="../024.xhtml#w246"/>
+			<audio clipBegin="147065ms" clipEnd="147345ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id247">
+			<!-- an -->
+			<text src="../024.xhtml#w247"/>
+			<audio clipBegin="147345ms" clipEnd="147415ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id248">
+			<!-- idea -->
+			<text src="../024.xhtml#w248"/>
+			<audio clipBegin="147415ms" clipEnd="148555ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id249">
+			<!-- He -->
+			<text src="../024.xhtml#w249"/>
+			<audio clipBegin="148555ms" clipEnd="148785ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id250">
+			<!-- knows -->
+			<text src="../024.xhtml#w250"/>
+			<audio clipBegin="148785ms" clipEnd="149035ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id251">
+			<!-- someone -->
+			<text src="../024.xhtml#w251"/>
+			<audio clipBegin="149035ms" clipEnd="149475ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id252">
+			<!-- who -->
+			<text src="../024.xhtml#w252"/>
+			<audio clipBegin="149475ms" clipEnd="149605ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id253">
+			<!-- can -->
+			<text src="../024.xhtml#w253"/>
+			<audio clipBegin="149605ms" clipEnd="149805ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id254">
+			<!-- help -->
+			<text src="../024.xhtml#w254"/>
+			<audio clipBegin="149805ms" clipEnd="150335ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id255">
+			<!-- Anna -->
+			<text src="../024.xhtml#w255"/>
+			<audio clipBegin="150335ms" clipEnd="150795ms" src="../audio/9781484786918.m4a"/>
+		</par>
+		<par id="id255g">
+			<!--  -->
+			<text src="../024.xhtml#empty1"/>
+			<audio clipBegin="150795ms" clipEnd="150994ms" src="../audio/9781484786918.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id22g">
+      <!--  -->
+      <text src="../004.xhtml#empty"/>
+      <audio clipBegin="28893ms" clipEnd="29905ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id22">
+      <!-- Princess -->
+      <text src="../004.xhtml#w22"/>
+      <audio clipBegin="29905ms" clipEnd="30615ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id23">
+      <!-- Elsa -->
+      <text src="../004.xhtml#w23"/>
+      <audio clipBegin="30615ms" clipEnd="31565ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id24">
+      <!-- and -->
+      <text src="../004.xhtml#w24"/>
+      <audio clipBegin="31565ms" clipEnd="31765ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id25">
+      <!-- Princess -->
+      <text src="../004.xhtml#w25"/>
+      <audio clipBegin="31765ms" clipEnd="32565ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id26">
+      <!-- Anna -->
+      <text src="../004.xhtml#w26"/>
+      <audio clipBegin="32565ms" clipEnd="33215ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id27">
+      <!-- are -->
+      <text src="../004.xhtml#w27"/>
+      <audio clipBegin="33215ms" clipEnd="33365ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id28">
+      <!-- sisters -->
+      <text src="../004.xhtml#w28"/>
+      <audio clipBegin="33365ms" clipEnd="34185ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id28g">
+      <!--  -->
+      <text src="../004.xhtml#empty"/>
+      <audio clipBegin="34185ms" clipEnd="34610ms" src="../audio/9781423197232.m4a"/>
+    </par>
+  </body>
+</smil>

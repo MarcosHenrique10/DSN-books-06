@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id93g">
+      <!--  -->
+      <text src="../011.xhtml#empty"/>
+      <audio clipBegin="75505ms" clipEnd="76025ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id93">
+      <!-- Elsa -->
+      <text src="../011.xhtml#w93"/>
+      <audio clipBegin="76025ms" clipEnd="76435ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id94">
+      <!-- becomes -->
+      <text src="../011.xhtml#w94"/>
+      <audio clipBegin="76435ms" clipEnd="76945ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id95">
+      <!-- queen -->
+      <text src="../011.xhtml#w95"/>
+      <audio clipBegin="76945ms" clipEnd="78136ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id96">
+      <!-- The -->
+      <text src="../011.xhtml#w96"/>
+      <audio clipBegin="78136ms" clipEnd="78354ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id97">
+      <!-- kingdom -->
+      <text src="../011.xhtml#w97"/>
+      <audio clipBegin="78354ms" clipEnd="78895ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id98">
+      <!-- cheers -->
+      <text src="../011.xhtml#w98"/>
+      <audio clipBegin="78895ms" clipEnd="79765ms" src="../audio/9781423197232.m4a"/>
+    </par>
+    <par id="id98g">
+      <!--  -->
+      <text src="../011.xhtml#empty"/>
+      <audio clipBegin="79765ms" clipEnd="80473ms" src="../audio/9781423197232.m4a"/>
+    </par>
+  </body>
+</smil>
