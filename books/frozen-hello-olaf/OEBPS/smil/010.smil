@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id66g">
+      <!--  -->
+      <text src="../010.xhtml#empty"/>
+      <audio clipBegin="51046ms" clipEnd="52211ms" src="../audio/9781484728796.m4a"/>
+    </par>
+    <par id="id66">
+      <!-- Sven -->
+      <text src="../010.xhtml#w66"/>
+      <audio clipBegin="52211ms" clipEnd="52681ms" src="../audio/9781484728796.m4a"/>
+    </par>
+    <par id="id67">
+      <!-- loves -->
+      <text src="../010.xhtml#w67"/>
+      <audio clipBegin="52681ms" clipEnd="53201ms" src="../audio/9781484728796.m4a"/>
+    </par>
+    <par id="id68">
+      <!-- carrots -->
+      <text src="../010.xhtml#w68"/>
+      <audio clipBegin="53201ms" clipEnd="53951ms" src="../audio/9781484728796.m4a"/>
+    </par>
+    <par id="id68g">
+      <!--  -->
+      <text src="../010.xhtml#empty"/>
+      <audio clipBegin="53951ms" clipEnd="54646ms" src="../audio/9781484728796.m4a"/>
+    </par>
+  </body>
+</smil>

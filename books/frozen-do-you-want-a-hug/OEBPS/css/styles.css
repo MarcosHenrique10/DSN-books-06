@@ -1,0 +1,278 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+@font-face {
+	font-family:"KristenNormalITCStd";
+	src: url(../fonts/KristenNormalITCStd.otf);
+}
+@font-face {
+	font-family:"arial-regular";
+	src: url(../fonts/ArialMT.otf);
+}
+.font-1 {
+	font-family:"KristenNormalITCStd";
+	font-size:15px;
+	line-height:18px;
+}
+.font-1a {
+	font-family:"KristenNormalITCStd";
+	font-size:11px;
+}
+.font-2 {
+	font-family:"arial-regular";
+	font-size:15px;
+	line-height:18px;
+}
+.font-2a {
+	font-family:"arial-regular";
+	font-size:13px;
+}
+.font-3 {
+	font-family:"KristenNormalITCStd";
+	font-size:15px;
+	line-height:18px;
+}
+.font-3a {
+	font-family:"KristenNormalITCStd";
+	font-size:11px;
+}
+.font-4 {
+	font-family:"KristenNormalITCStd";
+	font-size:23px;
+	line-height:45px;
+}
+.font-4a {
+	font-family:"KristenNormalITCStd";
+	font-size:20px;
+}
+.font-5 {
+	font-family:"KristenNormalITCStd";
+	font-size:30px;
+	line-height:45px;
+}
+.font-5a {
+	font-family:"KristenNormalITCStd";
+	font-size:25px;
+}
+.font-6 {
+	font-family:"KristenNormalITCStd";
+	font-size:27px;
+	line-height:90px;
+}
+.font-7 {
+	font-family:"KristenNormalITCStd";
+	font-size:75px;
+	line-height:131px;
+}
+.font-7a {
+	font-family:"KristenNormalITCStd";
+	font-size:66px;
+}
+.font-8 {
+	font-family:"KristenNormalITCStd";
+	font-size:113px;
+}
+.font-8a {
+	font-family:"KristenNormalITCStd";
+	font-size:96px;
+}
+.font-9 {
+	font-family:"KristenNormalITCStd";
+	font-size:173px;
+}
+.font-9a {
+	font-family:"KristenNormalITCStd";
+	font-size:160px;
+}
+.font-10 {
+	font-family:"KristenNormalITCStd";
+	font-size:45px;
+}
+.font-10a {
+	font-family:"KristenNormalITCStd";
+	font-size:34px;
+}
+.font-11 {
+	font-family:"KristenNormalITCStd";
+	font-size:27px;
+}
+.font-11a {
+	font-family:"KristenNormalITCStd";
+	font-size:22px;
+}
+.font-12 {
+	font-family:"KristenNormalITCStd";
+	font-size:45px;
+	line-height:113px;
+}
+.font-12a {
+	font-family:"KristenNormalITCStd";
+	font-size:36px;
+}
+.font-13 {
+	font-family:"KristenNormalITCStd";
+	font-size:50px;
+	line-height:113px;
+}
+.font-13a {
+	font-family:"KristenNormalITCStd";
+	font-size:45px;
+}
+.font-14 {
+	font-family:"KristenNormalITCStd";
+	font-size:113px;
+	line-height:113px;
+}
+.font-14a {
+	font-family:"KristenNormalITCStd";
+	font-size:96px;
+}
+.font-15 {
+	font-family:"KristenNormalITCStd";
+	font-size:45px;
+	line-height:68px;
+}
+.font-15a {
+	font-family:"KristenNormalITCStd";
+	font-size:36px;
+}
+.font-16 {
+	font-family:"KristenNormalITCStd";
+	font-size:21px;
+}
+.font-17 {
+	font-family:"KristenNormalITCStd";
+	font-size:45px;
+	line-height:101px;
+}
+.font-17a {
+	font-family:"KristenNormalITCStd";
+	font-size:38px;
+}
+.font-18 {
+	font-family:"KristenNormalITCStd";
+	font-size:85px;
+	line-height:101px;
+}
+.font-19 {
+	font-family:"KristenNormalITCStd";
+	font-size:113px;
+	line-height:101px;
+}
+.font-19a {
+	font-family:"KristenNormalITCStd";
+	font-size:102px;
+}
+.font-20 {
+	font-family:"KristenNormalITCStd";
+	font-size:53px;
+	line-height:101px;
+}
+.font-20a {
+	font-family:"KristenNormalITCStd";
+	font-size:48px;
+}
+.font-20b {
+	font-family:"KristenNormalITCStd";
+	font-size:50px;
+	color: #000;
+}
+.font-21 {
+	font-family:"KristenNormalITCStd";
+	font-size:75px;
+}
+.font-21a {
+	font-family:"KristenNormalITCStd";
+	font-size:55px;
+}
+.font-22 {
+	font-family:"KristenNormalITCStd";
+	font-size:135px;
+}
+.font-22a {
+	font-family:"KristenNormalITCStd";
+	font-size:110px;
+}
+.font-23 {
+	font-family:"KristenNormalITCStd";
+	font-size:53px;
+}
+.font-23a {
+	font-family:"KristenNormalITCStd";
+	font-size:38px;
+}
+.font-24 {
+	font-family:"KristenNormalITCStd";
+	font-size:30px;
+}
+.font-24a {
+	font-family:"KristenNormalITCStd";
+	font-size:25px;
+}
+.font-25 {
+	font-family:"KristenNormalITCStd";
+	font-size:38px;
+}
+.font-25a {
+	font-family:"KristenNormalITCStd";
+	font-size:30px;
+}
+.font-26 {
+	font-family:"KristenNormalITCStd";
+	font-size:68px;
+}
+.font-26a {
+	font-family:"KristenNormalITCStd";
+	font-size:45px;
+}
+.font-27 {
+	font-family:"KristenNormalITCStd";
+	font-size:232px;
+}
+.font-27a {
+	font-family:"KristenNormalITCStd";
+	font-size:160px;
+}
+.font-28 {
+	font-family:"KristenNormalITCStd";
+	font-size:150px;
+}
+.font-28a {
+	font-family:"KristenNormalITCStd";
+	font-size:102px;
+}
+.font-29 {
+	font-family:"KristenNormalITCStd";
+	font-size:62px;
+}
+.font-29a {
+	font-family:"KristenNormalITCStd";
+	font-size:48px;
+}
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; } /* For audio books */
+.media-overlay-active span { color: #f00 !important; } /* used for period to highlight */
+.page, .page img { width:738px; height:922px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1476px; height:922px; overflow:hidden; position:relative; background-size:100% 100% !important; }
+.pageKF8-single { width:738px; height:922px; position:relative; background-size:100% 100% !important; left:25%; }
+.m1{ margin-top:0.50em !important;}
+.m2 { margin-top:-0.35em !important;}
+.m3{ margin-top:0.60em !important;}
+.m4 { margin-top:-0.75em !important;}
+.m5 { margin-left:.50em !important;}
+.m6 { margin-top:-2.0em !important;}
+.m7 { margin-left:.75em !important;}
+.m8{ margin-top:3.0em !important;}
+.m9{margin-top:1.0em !important;}
+.m10 { margin-left:2.0em !important;}
+/* span { color:#ff0000 !important; }*/

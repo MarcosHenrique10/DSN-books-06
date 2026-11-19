@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="13874ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Frozen -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="13874ms" clipEnd="15134ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Anna -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="15134ms" clipEnd="15674ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- and -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="15674ms" clipEnd="15974ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Elsa -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="15974ms" clipEnd="17184ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Childhood -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="17184ms" clipEnd="17854ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Times -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="17854ms" clipEnd="19384ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Written -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="19384ms" clipEnd="19754ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- by -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="19754ms" clipEnd="19964ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Victoria -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="19964ms" clipEnd="20584ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Saxon -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="20584ms" clipEnd="21864ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Concept -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="21864ms" clipEnd="22544ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- by -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="22544ms" clipEnd="22744ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Brittany -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="22744ms" clipEnd="23114ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Candau -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="23114ms" clipEnd="24434ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="24434ms" clipEnd="25144ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- by -->
+      <text src="../003.xhtml#w16"/>
+      <audio clipBegin="25144ms" clipEnd="25314ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- the -->
+      <text src="../003.xhtml#w17"/>
+      <audio clipBegin="25314ms" clipEnd="25404ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id18">
+      <!-- Disney -->
+      <text src="../003.xhtml#w18"/>
+      <audio clipBegin="25404ms" clipEnd="25864ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id19">
+      <!-- Storybook -->
+      <text src="../003.xhtml#w19"/>
+      <audio clipBegin="25864ms" clipEnd="26624ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id20">
+      <!-- Art -->
+      <text src="../003.xhtml#w20"/>
+      <audio clipBegin="26624ms" clipEnd="26764ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id21">
+      <!-- Team -->
+      <text src="../003.xhtml#w21"/>
+      <audio clipBegin="26764ms" clipEnd="27244ms" src="../audio/9781484729632.m4a"/>
+    </par>
+    <par id="id21g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="27244ms" clipEnd="27910ms" src="../audio/9781484729632.m4a"/>
+    </par>
+  </body>
+</smil>

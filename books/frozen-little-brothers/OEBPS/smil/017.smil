@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id350g">
+			<!--  -->
+			<text src="../017.xhtml#empty"/>
+			<audio clipBegin="169723ms" clipEnd="170218ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id350">
+			<!-- You're -->
+			<text src="../017.xhtml#w350"/>
+			<audio clipBegin="170218ms" clipEnd="170428ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id351">
+			<!-- playing -->
+			<text src="../017.xhtml#w351"/>
+			<audio clipBegin="170428ms" clipEnd="170938ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id352">
+			<!-- King -->
+			<text src="../017.xhtml#w352"/>
+			<audio clipBegin="170938ms" clipEnd="171298ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id353">
+			<!-- of -->
+			<text src="../017.xhtml#w353"/>
+			<audio clipBegin="171298ms" clipEnd="171418ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id354">
+			<!-- the -->
+			<text src="../017.xhtml#w354"/>
+			<audio clipBegin="171418ms" clipEnd="171548ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id355">
+			<!-- Mountain -->
+			<text src="../017.xhtml#w355"/>
+			<audio clipBegin="171548ms" clipEnd="172748ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id356">
+			<!-- And -->
+			<text src="../017.xhtml#w356"/>
+			<audio clipBegin="172748ms" clipEnd="172978ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id357">
+			<!-- you -->
+			<text src="../017.xhtml#w357"/>
+			<audio clipBegin="172978ms" clipEnd="173348ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id358">
+			<!-- are -->
+			<text src="../017.xhtml#w358"/>
+			<audio clipBegin="173348ms" clipEnd="173548ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id359">
+			<!-- the -->
+			<text src="../017.xhtml#w359"/>
+			<audio clipBegin="173548ms" clipEnd="173698ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id360">
+			<!-- winner -->
+			<text src="../017.xhtml#w360"/>
+			<audio clipBegin="173698ms" clipEnd="174248ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id361">
+			<!-- little -->
+			<text src="../017.xhtml#w361"/>
+			<audio clipBegin="174248ms" clipEnd="174608ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id362">
+			<!-- Powder -->
+			<text src="../017.xhtml#w362"/>
+			<audio clipBegin="174608ms" clipEnd="175278ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id362g">
+			<!--  -->
+			<text src="../017.xhtml#empty1"/>
+			<audio clipBegin="175278ms" clipEnd="176068ms" src="../audio/9781484744789.m4a"/>
+		</par>
+	</body>
+</smil>

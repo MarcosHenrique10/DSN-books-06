@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id539g">
+			<!--  -->
+			<text src="../018.xhtml#empty"/>
+			<audio clipBegin="238013ms" clipEnd="238893ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id539">
+			<!-- Elsa -->
+			<text src="../018.xhtml#w539"/>
+			<audio clipBegin="238893ms" clipEnd="239293ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id540">
+			<!-- visited -->
+			<text src="../018.xhtml#w540"/>
+			<audio clipBegin="239293ms" clipEnd="239753ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id541">
+			<!-- Oaken's -->
+			<text src="../018.xhtml#w541"/>
+			<audio clipBegin="239753ms" clipEnd="240133ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id542">
+			<!-- Cloakens -->
+			<text src="../018.xhtml#w542"/>
+			<audio clipBegin="240133ms" clipEnd="240793ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id543">
+			<!-- the -->
+			<text src="../018.xhtml#w543"/>
+			<audio clipBegin="240793ms" clipEnd="240863ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id544">
+			<!-- jeweler's -->
+			<text src="../018.xhtml#w544"/>
+			<audio clipBegin="240863ms" clipEnd="241383ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id545">
+			<!-- shop -->
+			<text src="../018.xhtml#w545"/>
+			<audio clipBegin="241383ms" clipEnd="241843ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id546">
+			<!-- the -->
+			<text src="../018.xhtml#w546"/>
+			<audio clipBegin="241843ms" clipEnd="241903ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id547">
+			<!-- stables -->
+			<text src="../018.xhtml#w547"/>
+			<audio clipBegin="241903ms" clipEnd="242663ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id548">
+			<!-- the -->
+			<text src="../018.xhtml#w548"/>
+			<audio clipBegin="242663ms" clipEnd="242733ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id549">
+			<!-- children's -->
+			<text src="../018.xhtml#w549"/>
+			<audio clipBegin="242733ms" clipEnd="243233ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id550">
+			<!-- choir -->
+			<text src="../018.xhtml#w550"/>
+			<audio clipBegin="243233ms" clipEnd="243743ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id551">
+			<!-- and -->
+			<text src="../018.xhtml#w551"/>
+			<audio clipBegin="243743ms" clipEnd="243923ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id552">
+			<!-- the -->
+			<text src="../018.xhtml#w552"/>
+			<audio clipBegin="243923ms" clipEnd="244003ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id553">
+			<!-- tailor -->
+			<text src="../018.xhtml#w553"/>
+			<audio clipBegin="244003ms" clipEnd="244883ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id554">
+			<!-- She -->
+			<text src="../018.xhtml#w554"/>
+			<audio clipBegin="244883ms" clipEnd="245053ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id555">
+			<!-- sought -->
+			<text src="../018.xhtml#w555"/>
+			<audio clipBegin="245053ms" clipEnd="245393ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id556">
+			<!-- the -->
+			<text src="../018.xhtml#w556"/>
+			<audio clipBegin="245393ms" clipEnd="245493ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id557">
+			<!-- advice -->
+			<text src="../018.xhtml#w557"/>
+			<audio clipBegin="245493ms" clipEnd="245903ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id558">
+			<!-- of -->
+			<text src="../018.xhtml#w558"/>
+			<audio clipBegin="245903ms" clipEnd="245983ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id559">
+			<!-- fishermen -->
+			<text src="../018.xhtml#w559"/>
+			<audio clipBegin="245983ms" clipEnd="246533ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id560">
+			<!-- and -->
+			<text src="../018.xhtml#w560"/>
+			<audio clipBegin="246533ms" clipEnd="246713ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id561">
+			<!-- florists -->
+			<text src="../018.xhtml#w561"/>
+			<audio clipBegin="246713ms" clipEnd="247483ms" src="../audio/9781484748466.m4a"/>
+		</par>
+		<par id="id561g">
+			<!--  -->
+			<text src="../018.xhtml#empty1"/>
+			<audio clipBegin="247483ms" clipEnd="248033ms" src="../audio/9781484748466.m4a"/>
+		</par>
+	</body>
+</smil>

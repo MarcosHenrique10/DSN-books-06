@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="14758ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Little -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="14758ms" clipEnd="15038ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Brothers -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="15038ms" clipEnd="16248ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- by -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="16248ms" clipEnd="16428ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Victoria -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="16428ms" clipEnd="16998ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Saxon -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="16998ms" clipEnd="17958ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="17958ms" clipEnd="18568ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- by -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="18568ms" clipEnd="18748ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- the -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="18748ms" clipEnd="18838ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- Disney -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="18838ms" clipEnd="19278ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Storybook -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="19278ms" clipEnd="19958ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Art -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="19958ms" clipEnd="20208ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Team -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="20208ms" clipEnd="20548ms" src="../audio/9781484744789.m4a"/>
+		</par>
+		<par id="id12g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="20548ms" clipEnd="21528ms" src="../audio/9781484744789.m4a"/>
+		</par>
+	</body>
+</smil>

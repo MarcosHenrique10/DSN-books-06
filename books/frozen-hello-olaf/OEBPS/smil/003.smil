@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="11681ms" src="../audio/9781484728796.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Frozen -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="11681ms" clipEnd="13071ms" src="../audio/9781484728796.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Hello -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="13071ms" clipEnd="13621ms" src="../audio/9781484728796.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Olaf -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="13621ms" clipEnd="14881ms" src="../audio/9781484728796.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- By -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="14881ms" clipEnd="15131ms" src="../audio/9781484728796.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Andrea -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="15131ms" clipEnd="15521ms" src="../audio/9781484728796.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Posner -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="15521ms" clipEnd="16001ms" src="../audio/9781484728796.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Sanchez -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="16001ms" clipEnd="16711ms" src="../audio/9781484728796.m4a"/>
+    </par>
+    <par id="id7g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="16711ms" clipEnd="17726ms" src="../audio/9781484728796.m4a"/>
+    </par>
+  </body>
+</smil>
