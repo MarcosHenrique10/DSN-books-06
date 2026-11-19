@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="10835ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Happy -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="10835ms" clipEnd="11265ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Summerween -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="11265ms" clipEnd="12685ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Written -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="12685ms" clipEnd="13095ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- by -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="13095ms" clipEnd="13285ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Samantha -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="13285ms" clipEnd="13915ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Brooke -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="13915ms" clipEnd="14935ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Based -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="14935ms" clipEnd="15295ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- on -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="15295ms" clipEnd="15455ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- the -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="15455ms" clipEnd="15535ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- series -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="15535ms" clipEnd="16105ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- created -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="16105ms" clipEnd="16695ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- by -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="16695ms" clipEnd="17025ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- Alex -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="17025ms" clipEnd="17425ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- Hirsch -->
+      <text src="../003.xhtml#w16"/>
+      <audio clipBegin="17425ms" clipEnd="18415ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- Based -->
+      <text src="../003.xhtml#w17"/>
+      <audio clipBegin="18415ms" clipEnd="18745ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id18">
+      <!-- on -->
+      <text src="../003.xhtml#w18"/>
+      <audio clipBegin="18745ms" clipEnd="18885ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id19">
+      <!-- the -->
+      <text src="../003.xhtml#w19"/>
+      <audio clipBegin="18885ms" clipEnd="19015ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id20">
+      <!-- episode -->
+      <text src="../003.xhtml#w20"/>
+      <audio clipBegin="19015ms" clipEnd="19595ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id21">
+      <!-- Summerween -->
+      <text src="../003.xhtml#w21"/>
+      <audio clipBegin="19595ms" clipEnd="20845ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id22">
+      <!-- written -->
+      <text src="../003.xhtml#w22"/>
+      <audio clipBegin="20845ms" clipEnd="21145ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id23">
+      <!-- by -->
+      <text src="../003.xhtml#w23"/>
+      <audio clipBegin="21145ms" clipEnd="21335ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id24">
+      <!-- Tim -->
+      <text src="../003.xhtml#w24"/>
+      <audio clipBegin="21335ms" clipEnd="21695ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id25">
+      <!-- McKeon -->
+      <text src="../003.xhtml#w25"/>
+      <audio clipBegin="21695ms" clipEnd="22495ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id25a">
+      <!-- and -->
+      <text src="../003.xhtml#w25a"/>
+      <audio clipBegin="22495ms" clipEnd="22700ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id26">
+      <!-- Alex -->
+      <text src="../003.xhtml#w26"/>
+      <audio clipBegin="22700ms" clipEnd="23135ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id27">
+      <!-- Hirsch -->
+      <text src="../003.xhtml#w27"/>
+      <audio clipBegin="23135ms" clipEnd="23575ms" src="../audio/9781484711705.m4a"/>
+    </par>
+    <par id="id27g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="23575ms" clipEnd="24610ms" src="../audio/9781484711705.m4a"/>
+    </par>
+  </body>
+</smil>

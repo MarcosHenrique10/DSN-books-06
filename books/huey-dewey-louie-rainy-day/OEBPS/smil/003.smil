@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="14075ms" src="../audio/9781423190202.m4a"/>
+    </par>
+    <par id="id1a">
+      <!-- Huey -->
+      <text src="../003.xhtml#w1a"/>
+      <audio clipBegin="14075ms" clipEnd="14599ms" src="../audio/9781423190202.m4a"/>
+    </par>
+    <par id="id1b">
+      <!-- Dewey -->
+      <text src="../003.xhtml#w1b"/>
+      <audio clipBegin="14599ms" clipEnd="14984ms" src="../audio/9781423190202.m4a"/>
+    </par>
+    <par id="id1c">
+      <!-- and -->
+      <text src="../003.xhtml#w1c"/>
+      <audio clipBegin="14984ms" clipEnd="15240ms" src="../audio/9781423190202.m4a"/>
+    </par>
+    <par id="id1d">
+      <!-- Louie's -->
+      <text src="../003.xhtml#w1d"/>
+      <audio clipBegin="15240ms" clipEnd="15704ms" src="../audio/9781423190202.m4a"/>
+    </par>
+    <par id="id1e">
+      <!-- Rainy -->
+      <text src="../003.xhtml#w1e"/>
+      <audio clipBegin="15704ms" clipEnd="16182ms" src="../audio/9781423190202.m4a"/>
+    </par>
+    <par id="id1f">
+      <!-- Day -->
+      <text src="../003.xhtml#w1f"/>
+      <audio clipBegin="16182ms" clipEnd="16543ms" src="../audio/9781423190202.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- By -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="17526ms" clipEnd="17676ms" src="../audio/9781423190202.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Kate -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="17676ms" clipEnd="18076ms" src="../audio/9781423190202.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Ritchey -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="18076ms" clipEnd="19196ms" src="../audio/9781423190202.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="19196ms" clipEnd="20086ms" src="../audio/9781423190202.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- by -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="20086ms" clipEnd="20246ms" src="../audio/9781423190202.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- the -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="20246ms" clipEnd="20406ms" src="../audio/9781423190202.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Disney -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="20406ms" clipEnd="20906ms" src="../audio/9781423190202.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Storybook -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="20906ms" clipEnd="21486ms" src="../audio/9781423190202.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Art -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="21486ms" clipEnd="21836ms" src="../audio/9781423190202.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Team -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="21836ms" clipEnd="22376ms" src="../audio/9781423190202.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- and -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="22376ms" clipEnd="22516ms" src="../audio/9781423190202.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Loter -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="22516ms" clipEnd="22976ms" src="../audio/9781423190202.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Inc -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="22976ms" clipEnd="23326ms" src="../audio/9781423190202.m4a"/>
+    </par>
+    <par id="id13g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="23326ms" clipEnd="24266ms" src="../audio/9781423190202.m4a"/>
+    </par>
+  </body>
+</smil>

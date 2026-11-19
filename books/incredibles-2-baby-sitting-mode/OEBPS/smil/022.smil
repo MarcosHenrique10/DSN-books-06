@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id464g">
+			<!--  -->
+			<text src="../022.xhtml#empty"/>
+			<audio clipBegin="226453ms" clipEnd="227513ms" src="../audio/9781368020756.m4a"/>
+		</par>
+		<par id="id464">
+			<!-- After -->
+			<text src="../022.xhtml#w464"/>
+			<audio clipBegin="227513ms" clipEnd="227863ms" src="../audio/9781368020756.m4a"/>
+		</par>
+		<par id="id465">
+			<!-- putting -->
+			<text src="../022.xhtml#w465"/>
+			<audio clipBegin="227863ms" clipEnd="228233ms" src="../audio/9781368020756.m4a"/>
+		</par>
+		<par id="id466">
+			<!-- out -->
+			<text src="../022.xhtml#w466"/>
+			<audio clipBegin="228233ms" clipEnd="228423ms" src="../audio/9781368020756.m4a"/>
+		</par>
+		<par id="id467">
+			<!-- Jack -->
+			<text src="../022.xhtml#w467"/>
+			<audio clipBegin="228423ms" clipEnd="228773ms" src="../audio/9781368020756.m4a"/>
+		</par>
+		<par id="id468">
+			<!-- Jack's -->
+			<text src="../022.xhtml#w468"/>
+			<audio clipBegin="228773ms" clipEnd="229173ms" src="../audio/9781368020756.m4a"/>
+		</par>
+		<par id="id469">
+			<!-- flames -->
+			<text src="../022.xhtml#w469"/>
+			<audio clipBegin="229173ms" clipEnd="230313ms" src="../audio/9781368020756.m4a"/>
+		</par>
+		<par id="id470">
+			<!-- Edna -->
+			<text src="../022.xhtml#w470"/>
+			<audio clipBegin="230313ms" clipEnd="230693ms" src="../audio/9781368020756.m4a"/>
+		</par>
+		<par id="id471">
+			<!-- finally -->
+			<text src="../022.xhtml#w471"/>
+			<audio clipBegin="230693ms" clipEnd="231503ms" src="../audio/9781368020756.m4a"/>
+		</par>
+		<par id="id472">
+			<!-- spotted -->
+			<text src="../022.xhtml#w472"/>
+			<audio clipBegin="231503ms" clipEnd="231953ms" src="../audio/9781368020756.m4a"/>
+		</par>
+		<par id="id473">
+			<!-- her -->
+			<text src="../022.xhtml#w473"/>
+			<audio clipBegin="231953ms" clipEnd="232113ms" src="../audio/9781368020756.m4a"/>
+		</par>
+		<par id="id474">
+			<!-- sketchbook -->
+			<text src="../022.xhtml#w474"/>
+			<audio clipBegin="232113ms" clipEnd="232873ms" src="../audio/9781368020756.m4a"/>
+		</par>
+		<par id="id474g">
+			<!--  -->
+			<text src="../022.xhtml#empty"/>
+			<audio clipBegin="232873ms" clipEnd="233383ms" src="../audio/9781368020756.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,212 @@
+img{z-index:-1;}
+@font-face {
+	font-family:"AllerLight";
+	src: url(../fonts/AllerLight.ttf);
+}
+@font-face {
+	font-family:"Anysome";
+	src: url(../fonts/Anysome.ttf);
+}
+@font-face {
+	font-family:"Arial";
+	src: url(../fonts/Arial.ttf);
+}
+@font-face {
+	font-family:"TimesRoman";
+	src: url(../fonts/TimesRoman.ttf);
+}
+body {
+	width: 765px;
+	height: 979px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 765px;
+	height: 979px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+p.indent{
+	font-size: 24px;
+	line-height: 30px;
+	text-align: left;
+	text-indent: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"AllerLight";
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 688px;
+	left: 114px;
+	right: 0px;
+width: 542px;height: 160px;}
+div.page3_item1{
+	position: absolute;
+	top: 16px;
+	left: 105px;
+	right: 0px;
+width: 556px;height: 266px;}
+div.page4_item1{
+	position: absolute;
+	top: 51px;
+	left: 310px;
+	right: 0px;
+width: 415px;height: 186px;}
+div.page5_item1{
+	position: absolute;
+	top: 596px;
+	left: 55px;
+	right: 0px;
+width: 659px;height: 276px;}
+div.page6_item1{
+	position: absolute;
+	top: 52px;
+	left: 56px;
+	right: 0px;
+width: 662px;height: 92px;}
+div.page7_item1{
+	position: absolute;
+	top: 809px;
+	left: 55px;
+	right: 0px;
+width: 648px;height: 119px;}
+div.page8_item1{
+	position: absolute;
+	top: 51px;
+	left: 55px;
+	right: 0px;
+width: 670px;height: 273px;}
+div.page9_item1{
+	position: absolute;
+	top: 810px;
+	left: 58px;
+	right: 0px;
+width: 660px;height: 119px;}
+div.page10_item1{
+	position: absolute;
+	top: 50px;
+	left: 58px;
+	right: 0px;
+width: 676px;height: 251px;}
+div.page12_item1{
+	position: absolute;
+	top: 51px;
+	left: 55px;
+	right: 0px;
+width: 659px;height: 150px;}
+div.page12_item2{
+	position: absolute;
+	top: 808px;
+	left: 45px;
+	right: 0px;
+width: 674px;height: 134px;}
+div.page13_item1{
+	position: absolute;
+	top: 50px;
+	left: 57px;
+	right: 0px;
+width: 670px;height: 133px;}
+div.page15_item1{
+	position: absolute;
+	top: 248px;
+	left: 235px;
+	right: 0px;
+width: 498px;height: 302px;}
+div.page15_item2{
+	position: absolute;
+	top: 549px;
+	left: 235px;
+	right: 0px;
+width: 489px;height: 184px;}
+div.page16_item1{
+	position: absolute;
+	top: 52px;
+	left: 111px;
+	right: 0px;
+width: 569px;height: 126px;}
+div.page16_item2{
+	position: absolute;
+	top: 809px;
+	left: 112px;
+	right: 0px;
+width: 570px;height: 119px;}
+p.indent1{
+	font-size: 23px;
+	line-height: 30px;
+	text-align: left;
+	text-indent: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"AllerLight";
+	word-spacing:1px;
+}
+span.italic{
+-moz-transform:skewx(-10deg);
+-o-transform: skewx(-14deg);
+-webkit-transform:skewx(-14deg);
+transform: skewx(-14deg);
+display: inline-block;
+margin-left: -28px;
+}
+span.bold
+{
+	font-family:"Anysome";
+	font-size: 25px;
+}
+p.copy{
+	font-size: 13px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"TimesRoman";
+color:#FFFFFF;
+}
+p.copy1{
+	font-size: 13px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 21px;
+	margin-bottom: 0px;
+	font-family:"TimesRoman";
+color:#FFFFFF;
+}
+span.arial
+{
+	font-family:"Arial";
+}
+
+.media-overlay-active { color:#f00 !important; }
