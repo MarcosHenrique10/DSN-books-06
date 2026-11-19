@@ -1,0 +1,119 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+@font-face {
+	font-family:"simoncini-garamond-italic";
+	src: url(../fonts/SimonGarIta.otf);
+}
+@font-face {
+	font-family:"simoncini-garamond-regular";
+	src: url(../fonts/SimonGar.otf);
+}
+@font-face {
+	font-family:"honeybee-regular";
+	src: url(../fonts/HoneyBee.otf);
+}
+
+
+
+
+.font-1 {
+	font-family:"simoncini-garamond-regular";
+	font-size:14px;
+	line-height:18px;
+}
+.font-2 {
+	font-family:"arial-regular";
+	font-size:15px;
+	line-height:18px;
+}
+.font-3 {
+	font-family:"arial-regular";
+	font-size:9px;
+	line-height:18px;
+}
+.font-4 {
+	font-family:"honeybee-regular";
+	font-size:62px;
+}
+.font-5 {
+	font-family:"avalanchescript-medium";
+	font-size:72px;
+	line-height:63px;
+}
+.font-6 {
+	font-family:"honeybee-regular";
+	font-size:50px;
+}
+.font-7 {
+	font-family:"simoncini-garamond-regular";
+	font-size:23px;
+}
+.font-8 {
+	font-family:"simoncini-garamond-regular";
+	font-size:36px;
+	line-height:36px;
+}
+.font-9 {
+	font-family:"simoncini-garamond-italic";
+	font-size:20px;
+	line-height:29px;
+}
+.font-10 {
+	font-family:"simoncini-garamond-regular";
+	font-size:24px;
+	line-height:35px;
+}
+.font-11 {
+	font-family:"simoncini-garamond-regular";
+	font-size:18px;
+	line-height:28px;
+}
+.font-12 {
+	font-family:"honeybee-regular";
+	font-size:26px;
+	line-height:33px;
+	color:#25408F;
+}
+.font-13 {
+	font-family:"honeybee-regular";
+	font-size:74px;
+	line-height:28px;
+	color:#25408F;
+}
+.font-14 {
+	font-family:"honeybee-roman";
+	font-size:33px;
+	line-height:35px;
+}
+
+
+
+.c1 { color:#25408F; }
+.c2 {color:#25408F}
+.media-overlay-active .c2
+	{ color:#f00 !important; fill:#f00 !important;}
+
+.m1 { margin-bottom:20px !important }
+.m2 { margin-bottom:-1px !important }
+.m3 { margin-bottom:30px !important }
+.m4 { margin-right:-5px !important }
+.m5 { margin-right:-8px !important }
+
+
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; } /* For audio books */
+.page, .page img { width:723px; height:985px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1445px; height:985px; overflow:hidden; position:relative; background-size:100% 100% !important; }
+.pageKF8-single { width:723px; height:985px; position:relative; background-size:100% 100% !important; left:25%; }
+/*span { color:#f6f !important; }*/

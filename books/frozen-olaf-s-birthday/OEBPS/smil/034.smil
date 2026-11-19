@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id309g">
+			<!--  -->
+			<text src="../034.xhtml#empty"/>
+			<audio clipBegin="179556ms" clipEnd="180391ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id309">
+			<!-- Olaf's -->
+			<text src="../034.xhtml#w309"/>
+			<audio clipBegin="180391ms" clipEnd="180961ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id310">
+			<!-- friends -->
+			<text src="../034.xhtml#w310"/>
+			<audio clipBegin="180961ms" clipEnd="181361ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id311">
+			<!-- give -->
+			<text src="../034.xhtml#w311"/>
+			<audio clipBegin="181361ms" clipEnd="181611ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id312">
+			<!-- him -->
+			<text src="../034.xhtml#w312"/>
+			<audio clipBegin="181611ms" clipEnd="181801ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id313">
+			<!-- a -->
+			<text src="../034.xhtml#w313"/>
+			<audio clipBegin="181801ms" clipEnd="182151ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id314">
+			<!-- big -->
+			<text src="../034.xhtml#w314"/>
+			<audio clipBegin="182151ms" clipEnd="182521ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id315">
+			<!-- group -->
+			<text src="../034.xhtml#w315"/>
+			<audio clipBegin="182521ms" clipEnd="183131ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id316">
+			<!-- hug -->
+			<text src="../034.xhtml#w316"/>
+			<audio clipBegin="183131ms" clipEnd="184301ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id317">
+			<!-- Happy -->
+			<text src="../034.xhtml#w317"/>
+			<audio clipBegin="184301ms" clipEnd="185181ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id318">
+			<!-- birthday -->
+			<text src="../034.xhtml#w318"/>
+			<audio clipBegin="185181ms" clipEnd="185951ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id319">
+			<!-- Olaf -->
+			<text src="../034.xhtml#w319"/>
+			<audio clipBegin="185951ms" clipEnd="187701ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id319g">
+			<!--  -->
+			<text src="../034.xhtml#empty"/>
+			<audio clipBegin="187701ms" clipEnd="202748ms" src="../audio/9781484786901.m4a"/>
+		</par>
+	</body>
+</smil>

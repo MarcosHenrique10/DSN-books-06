@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="13599ms" src="../audio/9781484735190.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Frozen -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="13599ms" clipEnd="14719ms" src="../audio/9781484735190.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Melting -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="14719ms" clipEnd="15289ms" src="../audio/9781484735190.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Hearts -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="15289ms" clipEnd="16629ms" src="../audio/9781484735190.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Written -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="16629ms" clipEnd="17089ms" src="../audio/9781484735190.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- by -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="17089ms" clipEnd="17299ms" src="../audio/9781484735190.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Suzanne -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="17299ms" clipEnd="17939ms" src="../audio/9781484735190.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Francis -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="17939ms" clipEnd="19179ms" src="../audio/9781484735190.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="19179ms" clipEnd="19949ms" src="../audio/9781484735190.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- by -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="19949ms" clipEnd="20149ms" src="../audio/9781484735190.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- the -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="20149ms" clipEnd="20239ms" src="../audio/9781484735190.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Disney -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="20239ms" clipEnd="20649ms" src="../audio/9781484735190.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Storybook -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="20649ms" clipEnd="21369ms" src="../audio/9781484735190.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Art -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="21369ms" clipEnd="21589ms" src="../audio/9781484735190.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Team -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="21589ms" clipEnd="21969ms" src="../audio/9781484735190.m4a"/>
+    </par>
+    <par id="id14g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="21969ms" clipEnd="22541ms" src="../audio/9781484735190.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id164g">
+			<!--  -->
+			<text src="../018.xhtml#empty"/>
+			<audio clipBegin="101296ms" clipEnd="102161ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id164">
+			<!-- Olaf -->
+			<text src="../018.xhtml#w164"/>
+			<audio clipBegin="102161ms" clipEnd="102731ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id165">
+			<!-- builds -->
+			<text src="../018.xhtml#w165"/>
+			<audio clipBegin="102731ms" clipEnd="103101ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id166">
+			<!-- two -->
+			<text src="../018.xhtml#w166"/>
+			<audio clipBegin="103101ms" clipEnd="103311ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id167">
+			<!-- sandmen -->
+			<text src="../018.xhtml#w167"/>
+			<audio clipBegin="103311ms" clipEnd="104451ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id168">
+			<!-- They -->
+			<text src="../018.xhtml#w168"/>
+			<audio clipBegin="104451ms" clipEnd="104571ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id169">
+			<!-- look -->
+			<text src="../018.xhtml#w169"/>
+			<audio clipBegin="104571ms" clipEnd="104991ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id170">
+			<!-- like -->
+			<text src="../018.xhtml#w170"/>
+			<audio clipBegin="104991ms" clipEnd="105171ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id171">
+			<!-- his -->
+			<text src="../018.xhtml#w171"/>
+			<audio clipBegin="105171ms" clipEnd="105351ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id172">
+			<!-- friends -->
+			<text src="../018.xhtml#w172"/>
+			<audio clipBegin="105351ms" clipEnd="105961ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id172g">
+			<!--  -->
+			<text src="../018.xhtml#empty"/>
+			<audio clipBegin="105961ms" clipEnd="106426ms" src="../audio/9781484786901.m4a"/>
+		</par>
+	</body>
+</smil>

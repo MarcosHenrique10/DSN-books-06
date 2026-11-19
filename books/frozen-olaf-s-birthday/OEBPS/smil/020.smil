@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id185g">
+			<!--  -->
+			<text src="../020.xhtml#empty"/>
+			<audio clipBegin="111756ms" clipEnd="112601ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id185">
+			<!-- Olaf -->
+			<text src="../020.xhtml#w185"/>
+			<audio clipBegin="112601ms" clipEnd="113061ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id186">
+			<!-- sees -->
+			<text src="../020.xhtml#w186"/>
+			<audio clipBegin="113061ms" clipEnd="113401ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id187">
+			<!-- some -->
+			<text src="../020.xhtml#w187"/>
+			<audio clipBegin="113401ms" clipEnd="113621ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id188">
+			<!-- birds -->
+			<text src="../020.xhtml#w188"/>
+			<audio clipBegin="113621ms" clipEnd="114601ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id189">
+			<!-- He -->
+			<text src="../020.xhtml#w189"/>
+			<audio clipBegin="114601ms" clipEnd="114771ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id190">
+			<!-- dances -->
+			<text src="../020.xhtml#w190"/>
+			<audio clipBegin="114771ms" clipEnd="115391ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id191">
+			<!-- with -->
+			<text src="../020.xhtml#w191"/>
+			<audio clipBegin="115391ms" clipEnd="115541ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id192">
+			<!-- the -->
+			<text src="../020.xhtml#w192"/>
+			<audio clipBegin="115541ms" clipEnd="115601ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id193">
+			<!-- birds -->
+			<text src="../020.xhtml#w193"/>
+			<audio clipBegin="115601ms" clipEnd="116701ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id194">
+			<!-- The -->
+			<text src="../020.xhtml#w194"/>
+			<audio clipBegin="116701ms" clipEnd="116831ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id195">
+			<!-- birds -->
+			<text src="../020.xhtml#w195"/>
+			<audio clipBegin="116831ms" clipEnd="117491ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id196">
+			<!-- dance -->
+			<text src="../020.xhtml#w196"/>
+			<audio clipBegin="117491ms" clipEnd="117861ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id197">
+			<!-- with -->
+			<text src="../020.xhtml#w197"/>
+			<audio clipBegin="117861ms" clipEnd="117981ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id198">
+			<!-- him -->
+			<text src="../020.xhtml#w198"/>
+			<audio clipBegin="117981ms" clipEnd="118411ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id198g">
+			<!--  -->
+			<text src="../020.xhtml#empty"/>
+			<audio clipBegin="118411ms" clipEnd="118876ms" src="../audio/9781484786901.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id230g">
+			<!--  -->
+			<text src="../024.xhtml#empty"/>
+			<audio clipBegin="136231ms" clipEnd="137061ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id230">
+			<!-- Soon -->
+			<text src="../024.xhtml#w230"/>
+			<audio clipBegin="137061ms" clipEnd="137491ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id231">
+			<!-- it -->
+			<text src="../024.xhtml#w231"/>
+			<audio clipBegin="137491ms" clipEnd="137581ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id232">
+			<!-- is -->
+			<text src="../024.xhtml#w232"/>
+			<audio clipBegin="137581ms" clipEnd="137721ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id233">
+			<!-- time -->
+			<text src="../024.xhtml#w233"/>
+			<audio clipBegin="137721ms" clipEnd="138001ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id234">
+			<!-- to -->
+			<text src="../024.xhtml#w234"/>
+			<audio clipBegin="138001ms" clipEnd="138091ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id235">
+			<!-- go -->
+			<text src="../024.xhtml#w235"/>
+			<audio clipBegin="138091ms" clipEnd="138311ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id236">
+			<!-- home -->
+			<text src="../024.xhtml#w236"/>
+			<audio clipBegin="138311ms" clipEnd="139291ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id237">
+			<!-- Elsa -->
+			<text src="../024.xhtml#w237"/>
+			<audio clipBegin="139291ms" clipEnd="139821ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id238">
+			<!-- sails -->
+			<text src="../024.xhtml#w238"/>
+			<audio clipBegin="139821ms" clipEnd="140311ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id239">
+			<!-- the -->
+			<text src="../024.xhtml#w239"/>
+			<audio clipBegin="140311ms" clipEnd="140371ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id240">
+			<!-- boat -->
+			<text src="../024.xhtml#w240"/>
+			<audio clipBegin="140371ms" clipEnd="140831ms" src="../audio/9781484786901.m4a"/>
+		</par>
+		<par id="id240g">
+			<!--  -->
+			<text src="../024.xhtml#empty"/>
+			<audio clipBegin="140831ms" clipEnd="141286ms" src="../audio/9781484786901.m4a"/>
+		</par>
+	</body>
+</smil>

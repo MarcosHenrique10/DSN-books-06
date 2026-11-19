@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id974g">
+			<!--  -->
+			<text src="../030.xhtml#empty"/>
+			<audio clipBegin="452173ms" clipEnd="453303ms" src="../audio/9781368001199.m4a"/>
+		</par>
+		<par id="id974">
+			<!-- It's -->
+			<text src="../030.xhtml#w974"/>
+			<audio clipBegin="453303ms" clipEnd="453543ms" src="../audio/9781368001199.m4a"/>
+		</par>
+		<par id="id975">
+			<!-- you -->
+			<text src="../030.xhtml#w975"/>
+			<audio clipBegin="453543ms" clipEnd="453783ms" src="../audio/9781368001199.m4a"/>
+		</par>
+		<par id="id976">
+			<!-- Olaf -->
+			<text src="../030.xhtml#w976"/>
+			<audio clipBegin="453783ms" clipEnd="455133ms" src="../audio/9781368001199.m4a"/>
+		</par>
+		<par id="id977">
+			<!-- YOU -->
+			<text src="../030.xhtml#w977"/>
+			<audio clipBegin="455133ms" clipEnd="455343ms" src="../audio/9781368001199.m4a"/>
+		</par>
+		<par id="id978">
+			<!-- are -->
+			<text src="../030.xhtml#w978"/>
+			<audio clipBegin="455343ms" clipEnd="455383ms" src="../audio/9781368001199.m4a"/>
+		</par>
+		<par id="id979">
+			<!-- our -->
+			<text src="../030.xhtml#w979"/>
+			<audio clipBegin="455383ms" clipEnd="455813ms" src="../audio/9781368001199.m4a"/>
+		</par>
+		<par id="id980">
+			<!-- holiday -->
+			<text src="../030.xhtml#w980"/>
+			<audio clipBegin="455813ms" clipEnd="456283ms" src="../audio/9781368001199.m4a"/>
+		</par>
+		<par id="id981">
+			<!-- tradition -->
+			<text src="../030.xhtml#w981"/>
+			<audio clipBegin="456283ms" clipEnd="456913ms" src="../audio/9781368001199.m4a"/>
+		</par>
+		<par id="id982">
+			<!-- said -->
+			<text src="../030.xhtml#w982"/>
+			<audio clipBegin="456913ms" clipEnd="457163ms" src="../audio/9781368001199.m4a"/>
+		</par>
+		<par id="id983">
+			<!-- Anna -->
+			<text src="../030.xhtml#w983"/>
+			<audio clipBegin="457163ms" clipEnd="458043ms" src="../audio/9781368001199.m4a"/>
+		</par>
+		<par id="id984">
+			<!-- SURPRISE -->
+			<text src="../030.xhtml#w984"/>
+			<audio clipBegin="458043ms" clipEnd="459213ms" src="../audio/9781368001199.m4a"/>
+		</par>
+		<par id="id984g">
+			<!--  -->
+			<text src="../030.xhtml#empty1"/>
+			<audio clipBegin="459213ms" clipEnd="459828ms" src="../audio/9781368001199.m4a"/>
+		</par>
+	</body>
+</smil>
